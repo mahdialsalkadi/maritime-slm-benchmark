@@ -1,1886 +1,1925 @@
 {
- "ALL_QUESTIONS": {
-  "navigation_rules": [
-   {
-    "q": "Two power-driven vessels are crossing. The vessel that has the other on her starboard side shall:",
-    "choices": [
-     "A. Stand on and maintain course",
-     "B. Give way and avoid crossing ahead",
-     "C. Sound five short blasts",
-     "D. Stop engines immediately"
+  "ALL_QUESTIONS": {
+    "navigation_rules": [
+      {
+        "q": "Two power-driven vessels are crossing. The vessel that has the other on her starboard side shall:",
+        "choices": [
+          "A. Stand on and maintain course",
+          "B. Give way and avoid crossing ahead",
+          "C. Sound five short blasts",
+          "D. Stop engines immediately"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 15: crossing situation — the vessel with the other on her starboard side shall keep out of the way."
+      },
+      {
+        "q": "A vessel not under command shall display which day signal?",
+        "choices": [
+          "A. Two black balls in a vertical line",
+          "B. Three black balls in a vertical line",
+          "C. Two black diamonds",
+          "D. A black cylinder"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 27: two all-round red lights and two black balls in a vertical line."
+      },
+      {
+        "q": "A vessel engaged in fishing (trawling) displays which lights at night?",
+        "choices": [
+          "A. Red over white",
+          "B. Green over white",
+          "C. White over green over white",
+          "D. Red over green over white"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 26: trawling vessels display red over white all-round lights in addition to sidelights."
+      },
+      {
+        "q": "In a head-on situation between two power-driven vessels, each shall alter course to:",
+        "choices": [
+          "A. Port",
+          "B. Starboard",
+          "C. Either side",
+          "D. Stop"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 14: each shall alter her course to starboard to pass port-to-port."
+      },
+      {
+        "q": "What does 'underway' mean under COLREGs?",
+        "choices": [
+          "A. Not at anchor, aground, or made fast to shore",
+          "B. Making way through water",
+          "C. Under engine power",
+          "D. Moving forward"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 3: 'underway' means not at anchor, aground, or made fast to the shore. A vessel drifting with engines stopped is still underway."
+      },
+      {
+        "q": "A vessel restricted in her ability to manoeuvre shall display:",
+        "choices": [
+          "A. Ball-diamond-ball",
+          "B. Three balls",
+          "C. A black cone",
+          "D. Two red lights only"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 27: ball-diamond-ball day signal, red-white-red lights at night."
+      },
+      {
+        "q": "What sound signal does a power-driven vessel make when intending to overtake another on her starboard side?",
+        "choices": [
+          "A. One short blast",
+          "B. Two short blasts",
+          "C. Three short blasts",
+          "D. Five short blasts"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 34: two short blasts = 'I intend to overtake you on your port side' (vessel being overtaken is on starboard)."
+      },
+      {
+        "q": "What is the minimum number of crew required on the bridge for a safe navigational watch under STCW?",
+        "choices": [
+          "A. One OOW",
+          "B. OOW plus a lookout",
+          "C. Master plus OOW",
+          "D. Two officers"
+        ],
+        "answer": "B",
+        "ref": "STCW Chapter VIII: the OOW may be the sole lookout in daylight with clear visibility, but a lookout must be posted at night or in restricted visibility."
+      },
+      {
+        "q": "Two power-driven vessels are meeting head-on on reciprocal courses. Which action complies with COLREGs Rule 14?",
+        "choices": [
+          "A. Both alter course to starboard and pass port-to-port",
+          "B. The give-way vessel alters to port",
+          "C. Both vessels stop engines",
+          "D. The vessel with the other on her port side gives way"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 14 (head-on): each vessel shall alter course to starboard so as to pass on the port side of the other."
+      },
+      {
+        "q": "A power-driven vessel overtaking another in a narrow channel intends to overtake on the overtaken vessel's starboard side. What whistle signal is required by Rule 34?",
+        "choices": [
+          "A. Two prolonged blasts followed by two short blasts",
+          "B. Two prolonged blasts followed by one short blast",
+          "C. One prolonged blast only",
+          "D. Five short blasts"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 34(c)(i): 'I intend to overtake you on your starboard side' = two prolonged blasts followed by two short blasts."
+      },
+      {
+        "q": "A vessel constrained by her draught may display which additional day signal in a narrow channel?",
+        "choices": [
+          "A. A black cylinder",
+          "B. Three black balls",
+          "C. A black diamond",
+          "D. Ball-diamond-ball"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 28: a vessel constrained by her draught may display a black cylinder where it can best be seen."
+      },
+      {
+        "q": "Which vessel is defined as 'not under command' under COLREGs Rule 3?",
+        "choices": [
+          "A. A vessel at anchor",
+          "B. A vessel which through some exceptional circumstance is unable to manoeuvre and is therefore unable to keep out of the way of another vessel",
+          "C. A vessel drifting with engines stopped",
+          "D. A vessel restricted by her draught"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 3(g): 'vessel not under command' means a vessel which through some exceptional circumstance is unable to manoeuvre as required by these Rules."
+      },
+      {
+        "q": "A sailing vessel and a power-driven vessel are crossing. Under Rule 18, who gives way?",
+        "choices": [
+          "A. The sailing vessel",
+          "B. The power-driven vessel",
+          "C. Whichever is to port",
+          "D. Neither — sound signals only"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 18(a): a power-driven vessel underway shall keep out of the way of a sailing vessel."
+      },
+      {
+        "q": "A vessel engaged in fishing (other than trawling) with gear extending more than 150 m horizontally shows which day signal?",
+        "choices": [
+          "A. A black cone apex upward in the direction of the gear",
+          "B. A black cone apex downward",
+          "C. A black ball",
+          "D. A black cylinder"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 26(c)(iii): when gear extends more than 150 m horizontally, a black cone apex upward in the direction of the gear."
+      },
+      {
+        "q": "What is the significance of five short and rapid blasts sounded by a power-driven vessel?",
+        "choices": [
+          "A. Intent to overtake",
+          "B. Doubt or danger of the other vessel's intentions/actions",
+          "C. Leaving port",
+          "D. Requesting a bridge opening"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 34(d): five short and rapid blasts = doubt/danger signal when vessels in sight of one another."
+      },
+      {
+        "q": "A vessel restricted in her ability to manoeuvre performing an operation (e.g., cable-laying) that restricts her to starboard-side passage shows which lights at night?",
+        "choices": [
+          "A. Red-white-red all-round plus the restricted-manoeuvre lights",
+          "B. Green over white",
+          "C. Two all-round green lights",
+          "D. Three all-round red lights"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 27(d): a vessel restricted in ability to manoeuvre performing an operation restricting passage to one side shows red-white-red all-round lights plus the side to keep clear of."
+      },
+      {
+        "q": "Under Rule 19 (restricted visibility), a vessel detecting another vessel by radar alone must avoid altering course to:",
+        "choices": [
+          "A. Port for a vessel forward of the beam (other than crossing)",
+          "B. Starboard for a vessel abeam",
+          "C. Either side for a vessel abaft the beam",
+          "D. Starboard for a vessel forward of the beam"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 19(d)(i): avoid altering course to port for a vessel forward of the beam, other than a crossing vessel."
+      },
+      {
+        "q": "A vessel aground shows which anchor lights/shapes in addition to those of a vessel at anchor?",
+        "choices": [
+          "A. Two all-round red lights (night) / three black balls (day)",
+          "B. One all-round red light",
+          "C. Two all-round white lights",
+          "D. A black cylinder"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 30(d): a vessel aground shall show two all-round red lights and three black balls (day), plus anchor lights/shapes."
+      },
+      {
+        "q": "Which statement about a 'vessel constrained by her draught' versus 'vessel restricted in her ability to manoeuvre' is correct?",
+        "choices": [
+          "A. Both display ball-diamond-ball",
+          "B. Draught-constrained shows a cylinder; RAM shows ball-diamond-ball",
+          "C. Both show a cylinder",
+          "D. Draught-constrained shows balls; RAM shows a cone"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 28 (cylinder for draught-constrained) vs Rule 27 (ball-diamond-ball for RAM)."
+      },
+      {
+        "q": "An air-cushion vessel (hovercraft) operating in the non-displacement mode shows, in addition to sidelights, which all-round light?",
+        "choices": [
+          "A. A flashing yellow light",
+          "B. A fixed blue light",
+          "C. A red all-round light",
+          "D. A strobe white light"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 23(c): air-cushion vessels in non-displacement mode shall exhibit an all-round flashing yellow light."
+      },
+      {
+        "q": "A WIG (wing-in-ground) craft, when taking off/landing/in flight near the surface, keeps clear of which vessels?",
+        "choices": [
+          "A. All other vessels",
+          "B. Only power-driven vessels",
+          "C. Only sailing vessels",
+          "D. Only vessels not under command"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 18(f): a WIG craft, when taking off, landing and in flight near the surface, shall keep well clear of all other vessels."
+      },
+      {
+        "q": "Under Rule 9 (narrow channels), a vessel of less than 20 m or a sailing vessel shall:",
+        "choices": [
+          "A. Impede the passage of a vessel which can safely navigate only within a narrow channel",
+          "B. Not impede the passage of such a vessel",
+          "C. Anchor in the channel centre",
+          "D. Sound five short blasts"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 9(c): a vessel of less than 20 m or a sailing vessel shall not impede the passage of a vessel that can safely navigate only within a narrow channel."
+      },
+      {
+        "q": "Vessels fishing in close vicinity of other fishing vessels have special signal requirements. Two vessels fishing on the same side (pair trawling) show:",
+        "choices": [
+          "A. One white light over one red light each",
+          "B. Their fishing lights plus a searchlight directed at the other vessel",
+          "C. Three all-round white lights",
+          "D. A flashing yellow light each"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 26(c)(ii)/Annex II: when shooting/hauling or gear obstructs, extra signals; vessels fishing in close vicinity show searchlight or signals per Annex II."
+      },
+      {
+        "q": "Which sentence best states the Rule 2 caveat (responsibility)?",
+        "choices": [
+          "A. Nothing in the Rules exonerates from neglect of any precaution required by ordinary practice of seamen or special circumstances",
+          "B. The Rules may be ignored in emergencies",
+          "C. The Master may delegate compliance",
+          "D. Local rules override COLREGs entirely"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 2(a): nothing exonerates neglect of precautions required by the ordinary practice of seamen or by the special circumstances of the case."
+      },
+      {
+        "q": "A pilot vessel on pilotage duty shows which lights when at anchor?",
+        "choices": [
+          "A. Anchor lights only",
+          "B. Pilot lights (white over red) plus anchor lights",
+          "C. Pilot lights only",
+          "D. Blue flashing light plus anchor lights"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 29(b): a pilot vessel when not engaged on pilotage duty shall show the lights for a similar vessel of her length; when at anchor she shows anchor lights in addition to pilot lights (Rule 29 + Rule 30)."
+      },
+      {
+        "q": "A vessel towing alongside (pushing ahead, rigid connection) shows which lights?",
+        "choices": [
+          "A. The lights of a power-driven vessel (side, stern, masthead as applicable)",
+          "B. Towing lights (yellow towing light)",
+          "C. RAM lights",
+          "D. Two masthead lights only"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Rule 24(a): a power-driven vessel when pushing ahead or towing alongside (except a rigid connection in a composite unit) shows the ordinary power-driven vessel lights; a rigid composite unit shows the lights of a power-driven vessel."
+      },
+      {
+        "q": "What additional signal may a vessel at anchor in a fairway alert other vessels to her position?",
+        "choices": [
+          "A. Rapid ringing of the bell for 5 seconds, plus three strokes if over 100 m",
+          "B. Five whistle blasts",
+          "C. One prolonged blast every 2 minutes",
+          "D. Continuous bell ringing"
+        ],
+        "answer": "A",
+        "ref": "COLREGs Annex II/Rule 35(g): a vessel at anchor may sound rapid bell ringing for about 5 seconds every minute; over 100 m, also gong aft, plus one preceded/tollowed by one stroke."
+      },
+      {
+        "q": "Under Rule 10 (Traffic Separation Schemes), a vessel may enter a TSS for which reason?",
+        "choices": [
+          "A. To shorten the voyage",
+          "B. Crossing the scheme, joining/leaving at its ends, or in cases of immediate danger",
+          "C. Fishing anywhere within it",
+          "D. Overtaking within the lane"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 10: vessels shall use TSS lanes as designated; crossing at as near as practicable to right angles to the general direction of traffic flow."
+      },
+      {
+        "q": "A dredger working in a fairway with an obstruction on her port side shows which light on that side?",
+        "choices": [
+          "A. Two all-round red lights on the obstructed side",
+          "B. Two all-round green lights on the passable side",
+          "C. A single all-round white light",
+          "D. A flashing yellow light"
+        ],
+        "answer": "B",
+        "ref": "COLREGs Rule 27(d): vessels RAM performing dredging/underwater operations show two all-round red lights on the obstructed side and two all-round green lights on the side vessels may pass."
+      },
+      {
+        "q": "Which of the following is required by STCW Chapter VIII before taking over the navigational watch?",
+        "choices": [
+          "A. The relieving officer must confirm the ship's position, course, speed, and have adjusted to night vision",
+          "B. Only a signature in the deck log",
+          "C. The Master's verbal approval alone",
+          "D. Testing the main engine at full power"
+        ],
+        "answer": "A",
+        "ref": "STCW Code Chapter VIII/4: the relieving officer shall satisfy himself of the ship's estimated/charted position, course, speed, and that vision is adjusted to prevailing light conditions before taking over the watch."
+      }
     ],
-    "answer": "B",
-    "ref": "COLREGs Rule 15: crossing situation — the vessel with the other on her starboard side shall keep out of the way."
-   },
-   {
-    "q": "A vessel not under command shall display which day signal?",
-    "choices": [
-     "A. Two black balls in a vertical line",
-     "B. Three black balls in a vertical line",
-     "C. Two black diamonds",
-     "D. A black cylinder"
+    "solas_marpol": [
+      {
+        "q": "SOLAS Chapter II-2 deals with:",
+        "choices": [
+          "A. Navigation safety",
+          "B. Fire protection, fire detection and fire extinction",
+          "C. Radio communications",
+          "D. Cargo handling"
+        ],
+        "answer": "B",
+        "ref": "SOLAS Chapter II-2 covers fire protection, fire detection, and fire extinction."
+      },
+      {
+        "q": "MARPOL Annex V regulates:",
+        "choices": [
+          "A. Oil pollution",
+          "B. Sewage",
+          "C. Garbage",
+          "D. Air emissions"
+        ],
+        "answer": "C",
+        "ref": "MARPOL Annex V: prevention of pollution by garbage from ships."
+      },
+      {
+        "q": "What is the minimum freeboard determined by?",
+        "choices": [
+          "A. Load Line Convention (1966/1988)",
+          "B. SOLAS",
+          "C. MARPOL",
+          "D. STCW"
+        ],
+        "answer": "A",
+        "ref": "The International Load Line Convention determines minimum freeboard based on ship type, season, and zone."
+      },
+      {
+        "q": "MARPOL Annex VI addresses:",
+        "choices": [
+          "A. Oil pollution",
+          "B. Noxious liquids",
+          "C. Air pollution from ships",
+          "D. Ballast water"
+        ],
+        "answer": "C",
+        "ref": "MARPOL Annex VI: prevention of air pollution from ships (SOx, NOx, particulate matter)."
+      },
+      {
+        "q": "Under SOLAS, how often must lifeboats be launched during drills?",
+        "choices": [
+          "A. Weekly",
+          "B. Monthly",
+          "C. Every 3 months",
+          "D. Every 6 months"
+        ],
+        "answer": "C",
+        "ref": "SOLAS III/19.3.1: lifeboats must be launched with their assigned crew every 3 months."
+      },
+      {
+        "q": "What is the purpose of the ISM Code?",
+        "choices": [
+          "A. Pollution prevention",
+          "B. Safety management system",
+          "C. Crew certification",
+          "D. Ship construction"
+        ],
+        "answer": "B",
+        "ref": "International Safety Management (ISM) Code requires a Safety Management System (SMS) with documented procedures and audits."
+      },
+      {
+        "q": "MARPOL Annex VI SOx emission limit in Emission Control Areas (ECAs) is:",
+        "choices": [
+          "A. 3.5% m/m",
+          "B. 1.5% m/m",
+          "C. 0.5% m/m",
+          "D. 0.1% m/m"
+        ],
+        "answer": "C",
+        "ref": "MARPOL Annex VI: 0.5% sulphur content limit globally, 0.1% in ECAs (effective 2020)."
+      },
+      {
+        "q": "What does the term 'load line' refer to?",
+        "choices": [
+          "A. Maximum cargo weight",
+          "B. Maximum legal draft to which a ship may be loaded",
+          "C. Fuel loading limit",
+          "D. Crane lifting capacity"
+        ],
+        "answer": "B",
+        "ref": "Load Line Convention: marks on the ship's hull indicating the maximum legal draft in different water conditions."
+      },
+      {
+        "q": "Under MARPOL Annex VI, what is the maximum sulphur content (mass) permitted for fuel oil used onboard ships outside Emission Control Areas (ECAs) since 1 January 2020?",
+        "choices": [
+          "A. 3.50% m/m",
+          "B. 0.50% m/m",
+          "C. 0.10% m/m",
+          "D. 1.00% m/m"
+        ],
+        "answer": "B",
+        "ref": "MARPOL Annex VI Reg. 14.1.3: sulphur content of fuel oil used onboard shall not exceed 0.50% m/m outside ECAs (from 1 March 2020 carriage ban on non-compliant fuel)."
+      },
+      {
+        "q": "Within an Emission Control Area (ECA), the maximum fuel sulphur content is:",
+        "choices": [
+          "A. 0.50% m/m",
+          "B. 1.50% m/m",
+          "C. 0.10% m/m",
+          "D. 0.00% m/m"
+        ],
+        "answer": "C",
+        "ref": "MARPOL Annex VI Reg. 14.4: sulphur content within ECAs shall not exceed 0.10% m/m."
+      },
+      {
+        "q": "Under MARPOL Annex I, discharge of oily bilge water from machinery spaces is permitted only if the oil content of the effluent without dilution does not exceed:",
+        "choices": [
+          "A. 100 ppm",
+          "B. 15 ppm",
+          "C. 500 ppm",
+          "D. Zero discharge permitted"
+        ],
+        "answer": "B",
+        "ref": "MARPOL Annex I Reg. 15.3: oily bilge water discharge permitted when oil content < 15 ppm with operating oil-filtering equipment and outside special areas conditions."
+      },
+      {
+        "q": "Which annex of MARPOL governs the prevention of pollution by sewage from ships?",
+        "choices": [
+          "A. Annex IV",
+          "B. Annex V",
+          "C. Annex II",
+          "D. Annex III"
+        ],
+        "answer": "A",
+        "ref": "MARPOL Annex IV: Prevention of pollution by sewage from ships."
+      },
+      {
+        "q": "Under SOLAS Chapter V, from what date must all ships carry an Electronic Chart Display and Information System (ECDIS) per the performance standards (for ships built after 1 July 2012 on keels after that date on new builds)?",
+        "choices": [
+          "A. ECDIS is voluntary on all ships",
+          "B. Phased mandatory carriage per SOLAS V/19.2.10 implementation schedule",
+          "C. Required only for tankers",
+          "D. Required only above 50,000 GT"
+        ],
+        "answer": "B",
+        "ref": "SOLAS V/19.2.10 as amended (MSC.317(88)): phased ECDIS mandatory carriage schedule by ship type and size."
+      },
+      {
+        "q": "The ship's Oil Record Book Part I (machinery space operations) must be retained onboard for at least:",
+        "choices": [
+          "A. 6 months",
+          "B. 1 year",
+          "C. 3 years",
+          "D. 5 years"
+        ],
+        "answer": "C",
+        "ref": "MARPOL Annex I Reg. 17: Oil Record Book entries shall be preserved onboard for a period of three years after the last entry."
+      },
+      {
+        "q": "Under SOLAS Regulation III/19, abandon ship drills and fire drills must be conducted (for passenger ships) at intervals of:",
+        "choices": [
+          "A. Weekly",
+          "B. Every two weeks",
+          "C. Monthly",
+          "D. Every three months"
+        ],
+        "answer": "A",
+        "ref": "SOLAS III/19.2.1.2: on passenger ships, abandon ship and fire drills shall take place weekly."
+      },
+      {
+        "q": "The ISM Code requires the company to establish a Safety Management System (SMS). Which document is the company's written statement of its safety objectives and commitment?",
+        "choices": [
+          "A. The Safety Management Manual",
+          "B. The Safety and Environmental Protection Policy",
+          "C. The Master's Overriding Authority letter",
+          "D. The Document of Compliance (DOC)"
+        ],
+        "answer": "B",
+        "ref": "ISM Code Para 2: the company should establish a safety and environmental protection policy; para 4 defines the SMS which includes it."
+      },
+      {
+        "q": "Under MARPOL Annex V (garbage), which of the following may be discharged into the sea outside special areas?",
+        "choices": [
+          "A. Plastics",
+          "B. Food comminuted to <25 mm at ≥3 nm from nearest land",
+          "C. Oily rags",
+          "D. Incinerator ashes containing plastics"
+        ],
+        "answer": "B",
+        "ref": "MARPOL Annex V Reg. 4/6: food waste comminuted/ground to <25 mm may be discharged ≥3 nm from nearest land (outside special areas); plastics prohibited everywhere."
+      },
+      {
+        "q": "Under SOLAS Regulation II-2, the Fire Control Plan must be permanently exhibited and show, among other items:",
+        "choices": [
+          "A. Location of fire pumps, extinguishers, controls, and ventilation shut-offs",
+          "B. Crew sleeping quarters only",
+          "C. Cargo stowage plan",
+          "D. Engine exhaust temperatures"
+        ],
+        "answer": "A",
+        "ref": "SOLAS II-2/15.2.3: fire control plans shall show fire-control stations, fire pumps, extinguishers, dampers, fire detectors, and access routes."
+      },
+      {
+        "q": "The Ship Oil Pollution Emergency Plan (SOPEP) is required under:",
+        "choices": [
+          "A. MARPOL Annex I Reg. 37",
+          "B. SOLAS Chapter IX",
+          "C. MARPOL Annex VI",
+          "D. STCW Chapter VI"
+        ],
+        "answer": "A",
+        "ref": "MARPOL Annex I Reg. 37: every oil tanker of 150 GT and every ship other than an oil tanker of 400 GT and above shall carry a SOPEP approved by the Administration."
+      },
+      {
+        "q": "Ballast Water Management under the BWM Convention requires D-2 performance standard discharge of viable organisms below specified limits. The D-2 standard applies to ballast water exchange/operations how?",
+        "choices": [
+          "A. Replaces D-1 exchange entirely since 2017",
+          "B. As a performance standard applied via type-approved BWMS after the phase-in schedule",
+          "C. Only in port",
+          "D. Only for tankers"
+        ],
+        "answer": "B",
+        "ref": "BWM Convention (2004, in force 8 Sep 2017) Reg. D-2: ships shall discharge ballast water that meets D-2 organism concentration limits via type-approved Ballast Water Management Systems per the phase-in."
+      }
     ],
-    "answer": "A",
-    "ref": "COLREGs Rule 27: two all-round red lights and two black balls in a vertical line."
-   },
-   {
-    "q": "A vessel engaged in fishing (trawling) displays which lights at night?",
-    "choices": [
-     "A. Red over white",
-     "B. Green over white",
-     "C. White over green over white",
-     "D. Red over green over white"
+    "ntm_interpretation": [
+      {
+        "q": "An NTM states: 'Light buoy FL(3)10s at 03°02'N 101°20'E reported UNLIT.' What should mariners do?",
+        "choices": [
+          "A. Ignore — it will be fixed soon",
+          "B. Navigate with caution, do not rely on it at night, report the discrepancy",
+          "C. Anchor nearby until fixed",
+          "D. Only transit in daylight"
+        ],
+        "answer": "B",
+        "ref": "Standard NTM practice: treat unlit aids as unreliable, use alternative navigation, report to the hydrographic office."
+      },
+      {
+        "q": "An NTM announces: 'Drilling rig to be positioned at 05°30'N 100°30'E, radius 500m, surface to seabed.' What is the safe distance?",
+        "choices": [
+          "A. 100m",
+          "B. 250m",
+          "C. 500m from the rig position",
+          "D. 1 nautical mile"
+        ],
+        "answer": "C",
+        "ref": "The exclusion zone is 500m radius from the stated position — vessels must stay outside this area."
+      },
+      {
+        "q": "An NTM states: 'Dredging operations in the fairway. Depths reduced to 8.5m. Dredger 'MUD WARRIOR' standing by on VHF Ch 12.' What should a vessel with 9m draft do?",
+        "choices": [
+          "A. Proceed at high speed",
+          "B. Transit with caution maintaining at least 1m underkeel clearance, contact the dredger on VHF Ch 12",
+          "C. Avoid the area entirely",
+          "D. Wait for high water"
+        ],
+        "answer": "B",
+        "ref": "With 8.5m depth and 9m draft, the vessel would be aground. Cannot transit safely. Must use alternative route or wait for dredging to deepen the channel. (Answer: C — avoid the area entirely is most correct as 9m draft > 8.5m depth)"
+      },
+      {
+        "q": "A 'dredged depth maintained at 10m below chart datum' means:",
+        "choices": [
+          "A. The water is always exactly 10m deep",
+          "B. Minimum depth of 10m is guaranteed at lowest astronomical tide (LAT)",
+          "C. 10m at high water",
+          "D. 10m average depth"
+        ],
+        "answer": "B",
+        "ref": "Charted depths are referenced to chart datum (typically LAT). Dredging maintains this minimum depth."
+      },
+      {
+        "q": "An NTM cancels a previous notice (NTM 25(T)/2023). What does the mariner do?",
+        "choices": [
+          "A. Assume the hazard is resolved",
+          "B. Remove NTM 25(T)/2023 from the list of active temporary notices",
+          "C. Both A and B",
+          "D. Ignore it"
+        ],
+        "answer": "C",
+        "ref": "Cancellation means the temporary notice is no longer in force — the hazard should be resolved or the information superseded."
+      },
+      {
+        "q": "A Temporary & Preliminary Notice to Mariners (T&P NM) differs from a Permanent NM in that:",
+        "choices": [
+          "A. It is published only weekly",
+          "B. Its information is of a temporary nature or subject to change, and is not immediately incorporated into permanent charts",
+          "C. It applies only to naval vessels",
+          "D. It does not require chart correction"
+        ],
+        "answer": "B",
+        "ref": "T&P NMs convey information that is temporary (dredging, buoy changes pending) or preliminary (permanent change expected); they are consolidated in the T&P list and not cut into charts until made permanent."
+      },
+      {
+        "q": "A Notice to Mariners states: 'Buoy No. 3 in position 03°00'.2N, 101°18'.5E is UNLIT until further notice.' The primary navigational action for the mariner is:",
+        "choices": [
+          "A. Ignore the buoy since it is unlit",
+          "B. Treat the buoy as unlit and pass with caution, annotating the chart and planning alternate fixing",
+          "C. Report the buoy as wrecked",
+          "D. Shift to the next lane only"
+        ],
+        "answer": "B",
+        "ref": "UNLIT marks mean the aid's light is unreliable: the mariner must annotate the chart, adjust the passage plan for reduced aid availability, and maintain extra vigilance/alternate position fixing."
+      },
+      {
+        "q": "The Annual Summary of Admiralty Notices to Mariners is used primarily to:",
+        "choices": [
+          "A. Replace the chart catalogue",
+          "B. Provide consolidated T&P NM status and other annual information (e.g., maritime radio services, amended blocks)",
+          "C. List new chart editions only",
+          "D. Record ship positions"
+        ],
+        "answer": "B",
+        "ref": "The Annual Summary (NP247(1)/(2)) consolidates currently valid T&P NMs and contains annual notices on maritime radio, weather services, etc."
+      },
+      {
+        "q": "Chart correction by NM cut-and-paste requires the mariner to:",
+        "choices": [
+          "A. Paste the correction block over the old information and record the NM number/year in the chart's corner",
+          "B. Redraw the chart",
+          "C. File the NM and ignore the chart until a new edition",
+          "D. Correct only the largest-scale chart"
+        ],
+        "answer": "A",
+        "ref": "Standard chart correction practice: apply the NM block to the affected chart(s), note the NM number/year beside the correction, and maintain the chart correction log."
+      },
+      {
+        "q": "An NTM announces that a light's character changed from Fl(2) R 10s to Fl R 5s. The mariner must correct:",
+        "choices": [
+          "A. Only the Sailing Directions",
+          "B. The chart(s), the List of Lights entry, and update any route/plan annotations referencing the old character",
+          "C. Nothing — lights are corrected by the manufacturer",
+          "D. Only the tidal stream atlas"
+        ],
+        "answer": "B",
+        "ref": "Light character changes require chart amendment plus correction of the List of Lights (ALL volumes affected) and review of passage plans referencing the light."
+      },
+      {
+        "q": "A 'Preliminary Notice to Mariners' (P) announces an upcoming permanent change. Its function is to:",
+        "choices": [
+          "A. Substitute for chart correction permanently",
+          "B. Alert mariners early so they can plan, pending the new chart edition/publication",
+          "C. Cancel existing buoys",
+          "D. Replace the Sailing Directions"
+        ],
+        "answer": "B",
+        "ref": "(P) NMs give early warning of changes to be incorporated in forthcoming chart editions, allowing pre-emptive planning before blocks are issued."
+      },
+      {
+        "q": "An NTM references 'depths are in metres and fathoms'. Under this chart's units statement, the soundings are:",
+        "choices": [
+          "A. All in metres",
+          "B. Mixed: metres for depths under 21 and fathoms+feet in deeper waters (typical older charts)",
+          "C. All in fathoms",
+          "D. In feet only"
+        ],
+        "answer": "B",
+        "ref": "Charts annotated 'depths in metres and fathoms' use metres for shallow soundings and fathoms/feet for deeper soundings — the units statement governs interpretation; modern charts use metres only."
+      },
+      {
+        "q": "A JLM (Marine Department Malaysia) NTM announces a traffic diversion in the Malacca Strait TSS due to a drilling operation. Under COLREGs Rule 10, vessels should:",
+        "choices": [
+          "A. Ignore the diversion if outside territorial waters",
+          "B. Comply with the announced routing measures as IMO-adopted scheme amendments, cross at right angles if crossing",
+          "C. Anchor in the traffic lane",
+          "D. Fish in the precautionary area"
+        ],
+        "answer": "B",
+        "ref": "TSS amendments announced through NTMs reflect IMO-adopted routing; Rule 10 requires compliance with traffic flow and right-angle crossing."
+      },
+      {
+        "q": "The term 'Wreck — uncharted, reported' on a radio navigational warning means:",
+        "choices": [
+          "A. The wreck is surveyed and charted",
+          "B. A wreck reported but not yet surveyed; position may be approximate and danger may be greater than shown",
+          "C. The wreck was removed",
+          "D. The wreck is marked by a lightvessel"
+        ],
+        "answer": "B",
+        "ref": "'Reported' wrecks have unverified positions from third-party reports; mariners must give wide clearance until surveyed and charted."
+      },
+      {
+        "q": "Radio Navigational Warnings (Navtex/NAVAREA) and printed NTMs are complementary because:",
+        "choices": [
+          "A. They duplicate each other entirely",
+          "B. Navtex provides immediate broadcast of urgent warnings; printed NTMs provide the permanent/consolidated record for chart correction",
+          "C. Navtex replaces chart correction",
+          "D. NTMs are only for fishermen"
+        ],
+        "answer": "B",
+        "ref": "Urgent warnings are broadcast (NAVTEX/NAVAREA/Inmarsat EGC); the printed NM system provides the auditable, consolidated correction record — both are required components of chart maintenance."
+      },
+      {
+        "q": "An NTM correction block includes a small circle with the words 'Wk 27m'. On the chart this annotation represents:",
+        "choices": [
+          "A. A waypoint 27 nautical miles away",
+          "B. A wreck with 27 metres depth of water over it",
+          "C. A wharf of 27 m length",
+          "D. A water tower 27 m high"
+        ],
+        "answer": "B",
+        "ref": "Chart abbreviation 'Wk' = wreck; a number beside a wreck symbol denotes the depth of water over the wreck (e.g., Wk 27m = 27 m clearance)."
+      },
+      {
+        "q": "The NM 'Dredging operations in position ... from 070001Z to 150001Z MAR' — what does the 'Z' suffix denote?",
+        "choices": [
+          "A. Local zone time",
+          "B. UTC (Zulu) time",
+          "C. Zonal boundary",
+          "D. Zenith angle"
+        ],
+        "answer": "B",
+        "ref": "The 'Z' suffix denotes Zulu time (UTC), standard in all NMs and radio warnings to avoid time-zone ambiguity."
+      },
+      {
+        "q": "A chart correction is to be applied to two charts. The NM block is drawn for the small-scale chart only. The mariner should:",
+        "choices": [
+          "A. Ignore the large-scale chart",
+          "B. Construct an equivalent correction on the larger-scale chart by hand, consistent with the NM's information",
+          "C. Request a paper block from the publisher only",
+          "D. Wait for the next edition"
+        ],
+        "answer": "B",
+        "ref": "When an NM block applies to one chart only, corrections on other affected charts are made by hand from the NM's textual information, keeping scales and positions consistent."
+      },
+      {
+        "q": "The 'Notices to Mariners' published by the Marine Department Malaysia (Jabatan Laut Malaysia) are primarily concerned with:",
+        "choices": [
+          "A. Global oceanographic research",
+          "B. Malaysian waters: port notices, buoyage, dredging, obstructions, and navigation restrictions in Malaysian jurisdictions",
+          "C. Fishing quotas",
+          "D. Crew certification"
+        ],
+        "answer": "B",
+        "ref": "JLM NTMs announce Malaysian-local navigation information — port circulars, buoy changes, restrictions, dredging — complementing ADMIRALTY NMs for Malaysian waters."
+      },
+      {
+        "q": "If two NTMs conflict (one announces a buoy's relocation, a later one cancels it), which applies?",
+        "choices": [
+          "A. The earlier NM",
+          "B. The later NM in date order; later information supersedes earlier, and the chart correction log must reflect the sequence",
+          "C. Both simultaneously",
+          "D. The one with the larger chart number"
+        ],
+        "answer": "B",
+        "ref": "NTMs are applied in strict date order; a later NM cancelling an earlier one supersedes it, and the correction log records the supersession."
+      }
     ],
-    "answer": "A",
-    "ref": "COLREGs Rule 26: trawling vessels display red over white all-round lights in addition to sidelights."
-   },
-   {
-    "q": "In a head-on situation between two power-driven vessels, each shall alter course to:",
-    "choices": [
-     "A. Port",
-     "B. Starboard",
-     "C. Either side",
-     "D. Stop"
+    "port_operations": [
+      {
+        "q": "In Port Klang, what does VTS stand for and what is its primary function?",
+        "choices": [
+          "A. Vessel Traffic Service — monitors and coordinates ship movements",
+          "B. Verified Technical Standard — inspection protocol",
+          "C. Very Tidal System — tidal monitoring",
+          "D. Vessel Transit Speed — speed limit system"
+        ],
+        "answer": "A",
+        "ref": "Vessel Traffic Service provides monitoring, advisory, and organizational services to ensure safe navigation in the port approach.",
+        "split": "ood"
+      },
+      {
+        "q": "What is the purpose of a Ship Security Plan (SSP) under ISPS Code?",
+        "choices": [
+          "A. Cargo stowage plan",
+          "B. Security procedures for threat levels 1-3",
+          "C. Engine maintenance schedule",
+          "D. Crew rotation plan"
+        ],
+        "answer": "B",
+        "ref": "ISPS Code requires SSP documenting security measures at Security Level 1 (normal), Level 2 (heightened), Level 3 (exceptional).",
+        "split": "ood"
+      },
+      {
+        "q": "What is a Port State Control (PSC) inspection?",
+        "choices": [
+          "A. Flag state inspection at home port",
+          "B. Inspection by a foreign port to verify compliance with international conventions",
+          "C. Class survey",
+          "D. Insurance survey"
+        ],
+        "answer": "B",
+        "ref": "PSC: coastal states inspect foreign vessels to verify compliance with SOLAS, MARPOL, STCW, Load Line.",
+        "split": "ood"
+      },
+      {
+        "q": "What are the three components of the Ship Security Certification process?",
+        "choices": [
+          "A. SSAS, AIS, VDR",
+          "B. Ship Security Plan, Ship Security Officer, Company Security Officer",
+          "C. Radar, GPS, ECDIS",
+          "D. Load line, tonnage, registry"
+        ],
+        "answer": "B",
+        "ref": "ISPS: Ship Security Plan (SSP), Ship Security Officer (SSO), and Company Security Officer (CSO) form the security framework.",
+        "split": "ood"
+      },
+      {
+        "q": "What is pilotage?",
+        "choices": [
+          "A. Self-navigation by the captain",
+          "B. The act of a licensed pilot navigating the vessel in port waters",
+          "C. Aircraft navigation",
+          "D. Weather routing"
+        ],
+        "answer": "B",
+        "ref": "Pilotage: a licensed maritime pilot with local knowledge boards and navigates the vessel through port waters and channels.",
+        "split": "ood"
+      },
+      {
+        "q": "Port Klang comprises three terminals. Which of the following is NOT one of them?",
+        "choices": [
+          "A. Northport",
+          "B. Westports",
+          "C. Southpoint",
+          "D. Tanjung Pelepas"
+        ],
+        "answer": "D",
+        "ref": "Port Klang's terminals: Northport (Malaysia), Westports, and Southpoint (cruise/small craft). Tanjung Pelepas (PTP) is a separate port in Johor.",
+        "split": "ood"
+      },
+      {
+        "q": "The Port Klang Authority (PKA) is established under which legislation?",
+        "choices": [
+          "A. Port Authorities Act 1963 (Act 171 / Port Klang Authority Act)",
+          "B. Merchant Shipping Ordinance 1952",
+          "C. SOLAS 74",
+          "D. Customs Act 1967"
+        ],
+        "answer": "A",
+        "ref": "Port Klang Authority was established under the Port Authorities Act 1963 (now Port Klang Authority Act), as the statutory port regulator and landlord.",
+        "split": "ood"
+      },
+      {
+        "q": "A vessel departing Port Klang must notify the VTS (Klang Vessel Traffic Service) at what point per standard reporting procedures?",
+        "choices": [
+          "A. Sailing report/departure report at departure and position reports at designated reporting points",
+          "B. Only on arrival",
+          "C. Only in case of emergency",
+          "D. Only when carrying dangerous goods"
+        ],
+        "answer": "A",
+        "ref": "Klang VTS standard reporting: sailing (departure) report upon leaving berth, plus position reports at designated waypoints within the VTS area.",
+        "split": "ood"
+      },
+      {
+        "q": "Under the ISPS Code, a Port Facility Security Assessment (PFSA) is conducted by:",
+        "choices": [
+          "A. The port facility itself without oversight",
+          "B. The Recognized Security Organization (RSO) on behalf of the Designated Authority",
+          "C. The ship's master",
+          "D. The flag state only"
+        ],
+        "answer": "B",
+        "ref": "ISPS Code Part A/15: PFSA is carried out by the port facility's personnel, the RSO, or the Designating Authority; approved by the D.A.",
+        "split": "ood"
+      },
+      {
+        "q": "Ship Security Alert System (SSAS) activation in Port Klang waters triggers a response from:",
+        "choices": [
+          "A. The ship's owner only",
+          "B. The designated flag state authority and, within port limits, the port facility security officer and relevant Malaysian authorities (MMEA/Marine Dept)",
+          "C. No one — it is a silent alarm",
+          "D. The classification society"
+        ],
+        "answer": "B",
+        "ref": "SSAS alerts route to flag administration and company; within port waters, local authorities (Marine Dept/MMEA/port facility) coordinate the response under ISPS Part B guidance.",
+        "split": "ood"
+      },
+      {
+        "q": "Port State Control (PSC) inspections in Malaysian ports are conducted under which regional MOU?",
+        "choices": [
+          "A. Paris MOU",
+          "B. Tokyo MOU",
+          "C. Indian Ocean MOU",
+          "D. USCG PSC"
+        ],
+        "answer": "B",
+        "ref": "Malaysia is a member authority of the Tokyo MOU on Port State Control in the Asia-Pacific Region.",
+        "split": "ood"
+      },
+      {
+        "q": "A PSC officer detains a vessel due to a defective lifeboat davit. The detention is recorded in the Tokyo MOU database (APCIS). To release the vessel, the operator must:",
+        "choices": [
+          "A. Pay a fine",
+          "B. Rectify the deficiency to the PSC authority's satisfaction and obtain a follow-up inspection clearing the detention",
+          "C. Change flag",
+          "D. Sail at night"
+        ],
+        "answer": "B",
+        "ref": "Tokyo MOU procedure: detention is lifted after rectification verified by re-inspection; the deficiency and clearance are recorded in APCIS.",
+        "split": "ood"
+      },
+      {
+        "q": "Which document proves a ship's compliance with the ISM Code and is held by the company (not the ship)?",
+        "choices": [
+          "A. Safety Management Certificate (SMC)",
+          "B. Document of Compliance (DOC)",
+          "C. Interim SMC",
+          "D. Certificate of Registry"
+        ],
+        "answer": "B",
+        "ref": "ISM Code: the DOC is issued to the company after verifying SMS ashore; the SMC is issued to each ship after verifying onboard implementation.",
+        "split": "ood"
+      },
+      {
+        "q": "Pilotage in Port Klang for vessels above a specified gross tonnage is:",
+        "choices": [
+          "A. Voluntary",
+          "B. Compulsory within the port limits (per Port Authority regulations), except exempted vessels",
+          "C. Required only at night",
+          "D. Abolished"
+        ],
+        "answer": "B",
+        "ref": "Port Klang Authority regulations make pilotage compulsory for specified vessel sizes within port limits, with exemptions for certain coastal/short-strait vessels.",
+        "split": "ood"
+      },
+      {
+        "q": "A container vessel berths at Westports with a defective crane on the quay. Which authority coordinates the safety exclusion zone around the defective crane?",
+        "choices": [
+          "A. The terminal operator (port facility) with PKA oversight",
+          "B. The classification society",
+          "C. The ship's chandler",
+          "D. IMO"
+        ],
+        "answer": "A",
+        "ref": "Port facility safety management (ISPS Part A/16) and port authority oversight (PKA as regulator) coordinate such zones; the terminal operator manages day-to-day ops.",
+        "split": "ood"
+      },
+      {
+        "q": "Under Port Klang VTS, a 'precautionary area' is defined as:",
+        "choices": [
+          "A. An area where anchoring is encouraged",
+          "B. An area within a TSS/VTS where vessels must navigate with particular caution and report",
+          "C. A fishing reserve",
+          "D. A pilot boarding ground"
+        ],
+        "answer": "B",
+        "ref": "Precautionary areas (per IMO routing and VTS practice) require heightened vigilance, reporting, and careful navigation due to converging traffic or hazards.",
+        "split": "ood"
+      },
+      {
+        "q": "Dangerous goods arriving at Port Klang by sea require which documentation under the IMDG Code?",
+        "choices": [
+          "A. Dangerous Goods Declaration (DGD) with proper shipping name, class, UN number, and packing group",
+          "B. Only a commercial invoice",
+          "C. A customs form only",
+          "D. A verbal notice to the pilot"
+        ],
+        "answer": "A",
+        "ref": "IMDG Code Ch. 5.4: Dangerous Goods Declaration with proper shipping name, UN number, class, packing group, EMS, and other mandatory fields.",
+        "split": "ood"
+      },
+      {
+        "q": "A ship at anchorage in the Port Klang Outer Anchorage must maintain:",
+        "choices": [
+          "A. A proper anchor watch per SOLAS V/34-1 and the SMS procedures, monitoring position and traffic",
+          "B. No watch if the anchor holds",
+          "C. Only a daytime watch",
+          "D. Watch only during PSC inspections"
+        ],
+        "answer": "A",
+        "ref": "SOLAS V/34-1 (Master's responsibility) and SMS watchkeeping arrangements require a safe anchor watch monitoring position, dragging risk, and traffic.",
+        "split": "ood"
+      },
+      {
+        "q": "The 'Port Clearance' required before a vessel sails from Port Klang is issued by:",
+        "choices": [
+          "A. The shipping agent after clearance from Customs, Immigration, Port Health, and the Port Authority",
+          "B. The master alone",
+          "C. The pilot",
+          "D. The classification society"
+        ],
+        "answer": "A",
+        "ref": "Port clearance is granted after all port formalities (Customs, Immigration, Quarantine/Port Health, Authority dues) are completed, typically coordinated by the agent.",
+        "split": "ood"
+      },
+      {
+        "q": "Under Port Klang regulations, a vessel shifting between terminals within the port limits generally requires:",
+        "choices": [
+          "A. A new pilotage engagement and VTS notification for the shift",
+          "B. Nothing — shifts are unregulated",
+          "C. Only tug assistance",
+          "D. A new customs declaration"
+        ],
+        "answer": "A",
+        "ref": "Inter-terminal shifts within port limits remain subject to pilotage and VTS reporting requirements per port regulations.",
+        "split": "ood"
+      },
+      {
+        "q": "Under PKA Notice KS/LPK/01/2025, what is the maximum trim limit 'by astern' for a vessel with LOA less than 200 metres navigating within Port Klang limits?",
+        "choices": [
+          "A. 2.5 metres",
+          "B. 4.0 metres",
+          "C. 0.5 metres",
+          "D. 1.5 metres"
+        ],
+        "answer": "A",
+        "ref": "PKA Notice KS/LPK/01/2025: vessels LOA <200m — maximum trim 2.5 m 'by astern'.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Under PKA Notice KS/LPK/01/2025, a vessel with LOA exceeding 200 metres has a maximum trim 'by astern' of:",
+        "choices": [
+          "A. 2.5 m",
+          "B. 0.5 m",
+          "C. 4.0 m",
+          "D. 3.0 m"
+        ],
+        "answer": "C",
+        "ref": "PKA Notice KS/LPK/01/2025 para 1(ii): LOA >200 m — maximum trim 4.0 m 'by astern'.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Under PKA Notice KS/LPK/01/2025, when a vessel's trim exceeds the specified limits in an emergency, who must the shipping agent submit a written request to?",
+        "choices": [
+          "A. LPK (Port Klang Authority)",
+          "B. The terminal operator only",
+          "C. The vessel's flag state",
+          "D. The classification society"
+        ],
+        "answer": "A",
+        "ref": "PKA Notice KS/LPK/01/2025 para 2: written request to LPK (Port Klang Authority); approval subject to specified conditions.",
+        "split": "synthetic"
+      },
+      {
+        "q": "According to the Port Klang DG Transshipment Guideline, which IMO Class is NOT permitted for transshipment at all (with one exception)?",
+        "choices": [
+          "A. IMO Class 1 Explosives (except 1.4S)",
+          "B. IMO Class 5.1 Oxidizers (PG II)",
+          "C. IMO Class 8 Corrosives (PG II)",
+          "D. IMO Class 3 Flammable Liquids (PG III)"
+        ],
+        "answer": "A",
+        "ref": "Port Klang DG Transshipment Guideline item 1(i): IMO Class 1 Explosives not permitted except 1.4S.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Under the Port Klang DG Transshipment Guideline, are Infectious Substances (IMO Class 6.2) permitted for transshipment?",
+        "choices": [
+          "A. Yes, with standard packing",
+          "B. No — Class 6.2 Infectious Substances are on the not-permitted list",
+          "C. Only with government escort",
+          "D. Only in refrigerated containers"
+        ],
+        "answer": "B",
+        "ref": "Port Klang DG Transshipment Guideline item 1(xiii): IMO Class 6.2 Infectious Substances not permitted for transshipment.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang DG Transshipment Guideline, dangerous goods on the restricted list (except Class 1) may still be considered for transshipment on a case-by-case basis. What must the shipper do?",
+        "choices": [
+          "A. Nothing — automatic approval",
+          "B. Make an advance inquiry to the Authority providing UN No., IMO Class, and other details, subject to additional safety precautions imposed",
+          "C. Ship it without declaration",
+          "D. Only notify the pilot"
+        ],
+        "answer": "B",
+        "ref": "Port Klang DG Transshipment Guideline item 2: case-by-case consideration subject to additional safety/security precautions; advance inquiry with UN No. and IMO Class details advisable.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per PKA Notice KS/LPK/10/2015, which IMDG Code amendment did Port Klang adopt effective 1 January 2016?",
+        "choices": [
+          "A. Amendment 37-14",
+          "B. Amendment 39-18",
+          "C. Amendment 35-10",
+          "D. Amendment 40-20"
+        ],
+        "answer": "A",
+        "ref": "PKA Notice KS/LPK/10/2015 para 1: LPK adopted all 37-14 IMDG Code amendments effective 1 January 2016.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per PKA Notice KS/LPK/10/2015, what must the importer/manufacturer provide to LPK before discharging vehicles/equipment meeting SP961 requirements (UN 3166/3171)?",
+        "choices": [
+          "A. A Letter of Indemnity (LOI)",
+          "B. A crew list",
+          "C. A stowage plan",
+          "D. A fuel quality certificate"
+        ],
+        "answer": "A",
+        "ref": "PKA Notice KS/LPK/10/2015 para 6: Letter of Indemnity (LOI) submitted to LPK before discharge (import) or loading (export) for SP961-compliant vehicles/equipment.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per PKA Notice KS/LPK/10/2015, who must make the dangerous goods declaration for UN 3166/3171 vehicles for import, transhipment and transit cargo?",
+        "choices": [
+          "A. The shipping agent (ejen perkapalan); the forwarding agent for export",
+          "B. The crew",
+          "C. The terminal operator",
+          "D. The PSC officer"
+        ],
+        "answer": "A",
+        "ref": "PKA Notice KS/LPK/10/2015 para 3: DG declaration by shipping agent (import/transhipment/transit) and forwarding agent (export).",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Marine Handbook, what is the general speed limit for all vessels within Port Klang waters?",
+        "choices": [
+          "A. 12 knots maximum",
+          "B. 8 knots maximum",
+          "C. 15 knots maximum",
+          "D. No limit"
+        ],
+        "answer": "A",
+        "ref": "Port Klang Marine Handbook §1.8: all vessels shall navigate at a safe speed and in no case exceed 12 knots.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Marine Handbook, what is the speed limit for vessels navigating within 300 metres of wharves or mooring structures?",
+        "choices": [
+          "A. 12 knots",
+          "B. 8 knots",
+          "C. 5 knots",
+          "D. 10 knots"
+        ],
+        "answer": "B",
+        "ref": "Port Klang Marine Handbook §1.8: within 300 m of wharves/mooring structures — not exceeding 8 knots.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Marine Handbook, the minimum under-keel clearance (UKC) for a vessel with LOA exceeding 200 metres and/or draft exceeding 10 metres in Port Klang waters is:",
+        "choices": [
+          "A. 1.0 metre",
+          "B. 1.5 metres",
+          "C. 0.5 metre",
+          "D. 2.0 metres"
+        ],
+        "answer": "B",
+        "ref": "Port Klang Marine Handbook §1.7: UKC minimum 1.5 m for vessels LOA >200 m and/or draft >10 m; 1.0 m for smaller vessels.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Marine Handbook, is pilotage compulsory in Port Klang?",
+        "choices": [
+          "A. Voluntary for all vessels",
+          "B. Compulsory — Port Klang is declared a Compulsory Pilotage District",
+          "C. Only for tankers",
+          "D. Only for vessels over 100,000 GT"
+        ],
+        "answer": "B",
+        "ref": "Port Klang Marine Handbook §2.1: 'Port Klang is declared a Compulsory Pilotage District' — all vessels entering, leaving, or navigating within limits must engage a licensed pilot.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Marine Handbook, where is the Quarantine Anchorage position located?",
+        "choices": [
+          "A. Deep Water Point South between Latitudes 03°02.0'N and 03°03.0'N",
+          "B. Off Buas Buas Buoy",
+          "C. North of buoy 14",
+          "D. Inside the inner harbour"
+        ],
+        "answer": "A",
+        "ref": "Port Klang Marine Handbook §1.4: Quarantine Anchorage at Deep Water Point South between 03°02.0'N and 03°03.0'N.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Navigation Safety Guidelines, which VHF channel is used for communications between ships and pilots in the pilotage district?",
+        "choices": [
+          "A. VHF Channel 12",
+          "B. VHF Channel 14",
+          "C. VHF Channel 62",
+          "D. VHF Channel 16"
+        ],
+        "answer": "A",
+        "ref": "Port Klang Nav Safety Guidelines §1(iii): VHF Ch12 for all communications between ships and pilots; pilots maintain Ch12 listening watch at all times.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Navigation Safety Guidelines, in the South Channel, when two vessels meeting both exceed which criteria does the inbound vessel wait at the Pilot Boarding Ground?",
+        "choices": [
+          "A. Length exceeding 260 m or draft exceeding 12 m",
+          "B. Length exceeding 150 m",
+          "C. Draft exceeding 8 m",
+          "D. LOA under 100 m"
+        ],
+        "answer": "A",
+        "ref": "Port Klang Nav Safety Guidelines §2(i) South Channel: inbound waits at PBG when meeting a vessel of length >260 m or draft >12 m.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Navigation Safety Guidelines, in the North Channel, which vessel has unimpeded passage when both inbound and outbound vessels exceed 150 m LOA?",
+        "choices": [
+          "A. The inbound vessel",
+          "B. The outbound vessel",
+          "C. The larger vessel",
+          "D. The vessel bound for Westport"
+        ],
+        "answer": "B",
+        "ref": "Port Klang Nav Safety Guidelines §2(ii) North Channel: when both inbound and outbound exceed 150 m LOA, the outbound vessel has unimpeded passage.",
+        "split": "synthetic"
+      },
+      {
+        "q": "Per the Port Klang Navigation Safety Guidelines, when two vessels bound for different terminals arrive simultaneously at the Pilot Boarding Ground, which proceeds first?",
+        "choices": [
+          "A. The vessel bound for Northport (ahead of Westport)",
+          "B. The vessel bound for Westport (ahead of Northport)",
+          "C. The larger vessel",
+          "D. The outbound vessel"
+        ],
+        "answer": "A",
+        "ref": "Port Klang Nav Safety Guidelines §2(iv): the vessel bound for Northport proceeds ahead of the Westport-bound vessel to embark the pilot.",
+        "split": "synthetic"
+      },
+      {
+        "q": "The Port Klang 'Fallback Procedures for Systems Breakdown' are designed to maintain which function when primary systems fail?",
+        "choices": [
+          "A. Cargo invoicing only",
+          "B. Essential port operations (VTS, communications, EDI, gate systems) through manual/alternative procedures",
+          "C. Crew payroll",
+          "D. Marketing activities"
+        ],
+        "answer": "B",
+        "ref": "PKA Fallback Procedures: maintain essential operations — VTS, communications, EDI/document exchange, gate operations — via alternative/manual procedures during systems breakdown.",
+        "split": "synthetic"
+      }
     ],
-    "answer": "B",
-    "ref": "COLREGs Rule 14: each shall alter her course to starboard to pass port-to-port."
-   },
-   {
-    "q": "What does 'underway' mean under COLREGs?",
-    "choices": [
-     "A. Not at anchor, aground, or made fast to shore",
-     "B. Making way through water",
-     "C. Under engine power",
-     "D. Moving forward"
+    "emergency_procedures": [
+      {
+        "q": "In GMDSS, what is the frequency for Digital Selective Calling (DSC) distress alerts on VHF?",
+        "choices": [
+          "A. Channel 16 (156.8 MHz)",
+          "B. Channel 70 (156.525 MHz)",
+          "C. Channel 9",
+          "D. 2182 kHz"
+        ],
+        "answer": "B",
+        "ref": "GMDSS VHF DSC distress alerts are transmitted on Channel 70 (156.525 MHz). Voice follow-up on Channel 16."
+      },
+      {
+        "q": "What is the first action when a person falls overboard?",
+        "choices": [
+          "A. Jump in to rescue",
+          "B. Throw a lifebuoy, sound alarm, mark position with MOB button, assign a lookout",
+          "C. Stop engines immediately",
+          "D. Call the coastguard first"
+        ],
+        "answer": "B",
+        "ref": "Standard MOB procedure: throw lifebuoy, sound the alarm, mark GPS position, assign lookout, manoeuvre using Williamson turn."
+      },
+      {
+        "q": "What does EPIRB stand for and what is its function?",
+        "choices": [
+          "A. Emergency Position Indicating Radio Beacon — transmits distress position to satellites",
+          "B. Emergency Propulsion and Idle Rescue Boat",
+          "C. Electronic Pilot Information Radio Beacon",
+          "D. Emergency Platform Inflatable Rescue Boat"
+        ],
+        "answer": "A",
+        "ref": "EPIRB: 406 MHz beacon that transmits vessel identity and position to COSPAS-SARSAT satellites for search and rescue."
+      },
+      {
+        "q": "What is the primary fire-fighting medium for machinery space fires?",
+        "choices": [
+          "A. Water spray",
+          "B. Foam",
+          "C. Fixed CO2 or total flooding gas system",
+          "D. Sand buckets"
+        ],
+        "answer": "C",
+        "ref": "Fixed CO2 or clean agent total flooding systems are primary for engine room fires; water is secondary due to electrical hazards."
+      },
+      {
+        "q": "What does 'MAYDAY' signify in radio communication?",
+        "choices": [
+          "A. Request for medical assistance",
+          "B. Distress — imminent danger to life or vessel",
+          "C. Urgency — safety of vessel",
+          "D. Routine communication"
+        ],
+        "answer": "B",
+        "ref": "MAYDAY = distress (grave and imminent danger, immediate assistance required). PAN-PAN = urgency. SÉCURITÉ = safety."
+      },
+      {
+        "q": "A DSC distress alert on VHF Channel 70 is acknowledged by a coast station. The vessel should then shift to which channel for subsequent distress traffic?",
+        "choices": [
+          "A. VHF Channel 16",
+          "B. VHF Channel 13",
+          "C. VHF Channel 22A",
+          "D. VHF Channel 06"
+        ],
+        "answer": "A",
+        "ref": "ITU Radio Regulations / GMDSS: VHF DSC distress alerts are sent on Ch 70; subsequent distress traffic moves to Ch 16."
+      },
+      {
+        "q": "The 406 MHz EPIRB transmits its distress signal to:",
+        "choices": [
+          "A. Nearby ships only",
+          "B. COSPAS-SARSAT satellites for position determination and routing to RCC",
+          "C. The nearest port authority directly",
+          "D. INMARSAT only"
+        ],
+        "answer": "B",
+        "ref": "COSPAS-SARSAT 406 MHz EPIRBs are satellite-detected; the system computes position (with GPS if GNSS-equipped) and routes alerts to Mission Control Centres and RCCs."
+      },
+      {
+        "q": "The SART (Search and Rescue Radar Transponder), when interrogated by a 3-cm (X-band) radar, displays on the rescuer's screen as:",
+        "choices": [
+          "A. A series of 12 equally spaced dots extending outward from the SART's position",
+          "B. A solid circle",
+          "C. A cross",
+          "D. Nothing — SARTs are GPS-only"
+        ],
+        "answer": "A",
+        "ref": "SART responds to X-band radar with 12 blips in a radial line (approx 8 nm range); the first blip marks the SART position; only 3-cm radar triggers it."
+      },
+      {
+        "q": "In a 'Man Overboard' situation under the Williamson Turn, the helm order sequence is:",
+        "choices": [
+          "A. Hard over to the side of the casualty, then hard over opposite when 60 degrees from original course",
+          "B. Immediate full astern",
+          "C. Circle to port twice",
+          "D. Maintain course and launch lifeboat"
+        ],
+        "answer": "A",
+        "ref": "Williamson Turn: put rudder hard over toward the casualty's side; after deviating 60° from original course, reverse to hard over the opposite way; brings the vessel on reciprocal course near the MOB position."
+      },
+      {
+        "q": "Total flooding of a machinery space with CO2 requires, before release:",
+        "choices": [
+          "A. Verification that the space is evacuated, alarms sounded, ventilation stopped, dampers closed, and engines stopped",
+          "B. Only the Chief Engineer's presence",
+          "C. Opening all doors",
+          "D. Running ventilation at maximum"
+        ],
+        "answer": "A",
+        "ref": "SOLAS II-2/Ch. FSS Code Ch. 5 and SMS procedures: pre-release checks include evacuation confirmation, alarm, ventilation/dampers closed, machinery stopped, and a timed delay before release."
+      },
+      {
+        "q": "A fire in the accommodation is being fought with a water hose while an adjacent space contains electrical panels. Before directing water near the panels, the attack team must:",
+        "choices": [
+          "A. Isolate electrical power to the affected panels to prevent electrocution",
+          "B. Use seawater directly",
+          "C. Continue unrestricted",
+          "D. Open all doors for ventilation"
+        ],
+        "answer": "A",
+        "ref": "Standard fire-fighting safety: de-energize electrical equipment before applying water; CO2/dry powder preferred on live electrical fires."
+      },
+      {
+        "q": "The 'MAYDAY' spoken distress call may only be used when:",
+        "choices": [
+          "A. A vessel or person is in grave and imminent danger and requires immediate assistance",
+          "B. There is any doubt about position",
+          "C. Requesting a pilot",
+          "D. Testing equipment"
+        ],
+        "answer": "A",
+        "ref": "ITU Radio Regulations Art. 44 / GMDSS: MAYDAY signals indicate grave and imminent danger requiring immediate assistance; priority over all other traffic."
+      },
+      {
+        "q": "A 'PAN PAN' urgency call differs from MAYDAY in that it denotes:",
+        "choices": [
+          "A. A very urgent message concerning the safety of a ship or person, but no grave and imminent danger",
+          "B. A distress situation",
+          "C. A routine port call",
+          "D. A safety broadcast only"
+        ],
+        "answer": "A",
+        "ref": "ITU RR Art. 44: URGENCY signal PAN PAN (x3) for urgent safety messages not constituting distress; SAFETY signal SÉCURITÉ for navigational/meteorological warnings."
+      },
+      {
+        "q": "Under SOLAS III/29, a lifeboat's launching arrangements must be such that the boat can be launched:",
+        "choices": [
+          "A. Within 5 minutes of the abandon ship signal with the ship underway making 5 knots in calm water",
+          "B. Only in port",
+          "C. Only after 20 minutes",
+          "D. Only at zero speed"
+        ],
+        "answer": "A",
+        "ref": "SOLAS III/29.2.3 + LSA Code 4.4.7: launch within 5 min of the signal; for tankers of certain sizes, launching at 5 knots ahead speed is required."
+      },
+      {
+        "q": "The immersion suit's primary function in an abandon-ship scenario is:",
+        "choices": [
+          "A. To provide thermal protection and buoyancy, reducing cold-water immersion risk",
+          "B. To signal aircraft",
+          "C. To store provisions",
+          "D. To inflate the lifeboat"
+        ],
+        "answer": "A",
+        "ref": "LSA Code 4.3: immersion suits provide inherent buoyancy and thermal insulation; donning within 2 minutes; protection against cold water."
+      },
+      {
+        "q": "Under the IMDG Code EmS Guide, which extinguishing medium is strictly contraindicated on a fire involving Class 4.3 dangerous goods (substances which in contact with water emit flammable gases)?",
+        "choices": [
+          "A. Water in large quantities (flooding)",
+          "B. CO2",
+          "C. Dry chemical powder",
+          "D. Dry sand"
+        ],
+        "answer": "A",
+        "ref": "IMDG Code EmS Guide: Class 4.3 reacts dangerously with water to produce flammable or explosive gases. Water must never be applied directly to the cargo; smother with dry agent or inert gas."
+      },
+      {
+        "q": "The On-Scene Coordinator (OSC) for a multi-ship SAR operation is normally designated by:",
+        "choices": [
+          "A. The Rescue Coordination Centre (RCC) or by agreement among the vessels",
+          "B. The nearest vessel automatically",
+          "C. The shipping company",
+          "D. IMO"
+        ],
+        "answer": "A",
+        "ref": "IAMSAR Manual Vol. II: the SMC (at the RCC) designates the OSC, or the OSC may be agreed by consensus among vessels on scene."
+      },
+      {
+        "q": "During a fire drill, a scenario requires boundary cooling of an adjacent compartment containing cargo. Boundary cooling is achieved by:",
+        "choices": [
+          "A. Continuously spraying water on the bulkhead/deck adjacent to the fire to prevent heat spread/ignition",
+          "B. Closing all dampers",
+          "C. Flooding the compartment",
+          "D. Ventilating the space"
+        ],
+        "answer": "A",
+        "ref": "Standard boundary cooling practice: continuous water spray on adjacent boundaries to prevent heat transfer and auto-ignition of neighbouring cargo/spaces."
+      },
+      {
+        "q": "Following a collision, the immediate priority sequence under standard damage-control doctrine is:",
+        "choices": [
+          "A. Preserve life → contain/limit damage (stability, flooding) → then property",
+          "B. Save cargo → notify owners → then crew",
+          "C. Check engines → then crew → then hull",
+          "D. Send DSC → then assess"
+        ],
+        "answer": "A",
+        "ref": "Damage control doctrine (SOLAS II-1/SMS): life safety first; then damage stabilization (flooding/fire); then property/environment — consistent with ISM emergency preparedness."
+      },
+      {
+        "q": "A crew member falls overboard at night. Besides the Williamson Turn and MOB mark on GPS, the immediate first actions include:",
+        "choices": [
+          "A. Sounding the alarm, throwing a lifebuoy with light/smoke float, posting extra lookouts, and illuminating with searchlight",
+          "B. Stopping engines immediately and drifting",
+          "C. Waiting for daylight",
+          "D. Sending a PAN PAN only"
+        ],
+        "answer": "A",
+        "ref": "Standard MOB procedure: alarm; lifebuoy with light/smoke marker; extra lookout; searchlight illumination; keep casualty in sight; report to Master; then the chosen turn (Williamson/Andersen/Scharnow per ship's SMS)."
+      }
     ],
-    "answer": "A",
-    "ref": "COLREGs Rule 3: 'underway' means not at anchor, aground, or made fast to the shore. A vessel drifting with engines stopped is still underway."
-   },
-   {
-    "q": "A vessel restricted in her ability to manoeuvre shall display:",
-    "choices": [
-     "A. Ball-diamond-ball",
-     "B. Three balls",
-     "C. A black cone",
-     "D. Two red lights only"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 27: ball-diamond-ball day signal, red-white-red lights at night."
-   },
-   {
-    "q": "What sound signal does a power-driven vessel make when intending to overtake another on her starboard side?",
-    "choices": [
-     "A. One short blast",
-     "B. Two short blasts",
-     "C. Three short blasts",
-     "D. Five short blasts"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 34: two short blasts = 'I intend to overtake you on your port side' (vessel being overtaken is on starboard)."
-   },
-   {
-    "q": "What is the minimum number of crew required on the bridge for a safe navigational watch under STCW?",
-    "choices": [
-     "A. One OOW",
-     "B. OOW plus a lookout",
-     "C. Master plus OOW",
-     "D. Two officers"
-    ],
-    "answer": "B",
-    "ref": "STCW Chapter VIII: the OOW may be the sole lookout in daylight with clear visibility, but a lookout must be posted at night or in restricted visibility."
-   },
-   {
-    "q": "Two power-driven vessels are meeting head-on on reciprocal courses. Which action complies with COLREGs Rule 14?",
-    "choices": [
-     "A. Both alter course to starboard and pass port-to-port",
-     "B. The give-way vessel alters to port",
-     "C. Both vessels stop engines",
-     "D. The vessel with the other on her port side gives way"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 14 (head-on): each vessel shall alter course to starboard so as to pass on the port side of the other."
-   },
-   {
-    "q": "A power-driven vessel overtaking another in a narrow channel intends to overtake on the overtaken vessel's starboard side. What whistle signal is required by Rule 34?",
-    "choices": [
-     "A. Two prolonged blasts followed by two short blasts",
-     "B. Two prolonged blasts followed by one short blast",
-     "C. One prolonged blast only",
-     "D. Five short blasts"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 34(c)(i): 'I intend to overtake you on your starboard side' = two prolonged blasts followed by two short blasts."
-   },
-   {
-    "q": "A vessel constrained by her draught may display which additional day signal in a narrow channel?",
-    "choices": [
-     "A. A black cylinder",
-     "B. Three black balls",
-     "C. A black diamond",
-     "D. Ball-diamond-ball"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 28: a vessel constrained by her draught may display a black cylinder where it can best be seen."
-   },
-   {
-    "q": "Which vessel is defined as 'not under command' under COLREGs Rule 3?",
-    "choices": [
-     "A. A vessel at anchor",
-     "B. A vessel which through some exceptional circumstance is unable to manoeuvre and is therefore unable to keep out of the way of another vessel",
-     "C. A vessel drifting with engines stopped",
-     "D. A vessel restricted by her draught"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 3(g): 'vessel not under command' means a vessel which through some exceptional circumstance is unable to manoeuvre as required by these Rules."
-   },
-   {
-    "q": "A sailing vessel and a power-driven vessel are crossing. Under Rule 18, who gives way?",
-    "choices": [
-     "A. The sailing vessel",
-     "B. The power-driven vessel",
-     "C. Whichever is to port",
-     "D. Neither — sound signals only"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 18(a): a power-driven vessel underway shall keep out of the way of a sailing vessel."
-   },
-   {
-    "q": "A vessel engaged in fishing (other than trawling) with gear extending more than 150 m horizontally shows which day signal?",
-    "choices": [
-     "A. A black cone apex upward in the direction of the gear",
-     "B. A black cone apex downward",
-     "C. A black ball",
-     "D. A black cylinder"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 26(c)(iii): when gear extends more than 150 m horizontally, a black cone apex upward in the direction of the gear."
-   },
-   {
-    "q": "What is the significance of five short and rapid blasts sounded by a power-driven vessel?",
-    "choices": [
-     "A. Intent to overtake",
-     "B. Doubt or danger of the other vessel's intentions/actions",
-     "C. Leaving port",
-     "D. Requesting a bridge opening"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 34(d): five short and rapid blasts = doubt/danger signal when vessels in sight of one another."
-   },
-   {
-    "q": "A vessel restricted in her ability to manoeuvre performing an operation (e.g., cable-laying) that restricts her to starboard-side passage shows which lights at night?",
-    "choices": [
-     "A. Red-white-red all-round plus the restricted-manoeuvre lights",
-     "B. Green over white",
-     "C. Two all-round green lights",
-     "D. Three all-round red lights"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 27(d): a vessel restricted in ability to manoeuvre performing an operation restricting passage to one side shows red-white-red all-round lights plus the side to keep clear of."
-   },
-   {
-    "q": "Under Rule 19 (restricted visibility), a vessel detecting another vessel by radar alone must avoid altering course to:",
-    "choices": [
-     "A. Port for a vessel forward of the beam (other than crossing)",
-     "B. Starboard for a vessel abeam",
-     "C. Either side for a vessel abaft the beam",
-     "D. Starboard for a vessel forward of the beam"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 19(d)(i): avoid altering course to port for a vessel forward of the beam, other than a crossing vessel."
-   },
-   {
-    "q": "A vessel aground shows which anchor lights/shapes in addition to those of a vessel at anchor?",
-    "choices": [
-     "A. Two all-round red lights (night) / three black balls (day)",
-     "B. One all-round red light",
-     "C. Two all-round white lights",
-     "D. A black cylinder"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 30(d): a vessel aground shall show two all-round red lights and three black balls (day), plus anchor lights/shapes."
-   },
-   {
-    "q": "Which statement about a 'vessel constrained by her draught' versus 'vessel restricted in her ability to manoeuvre' is correct?",
-    "choices": [
-     "A. Both display ball-diamond-ball",
-     "B. Draught-constrained shows a cylinder; RAM shows ball-diamond-ball",
-     "C. Both show a cylinder",
-     "D. Draught-constrained shows balls; RAM shows a cone"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 28 (cylinder for draught-constrained) vs Rule 27 (ball-diamond-ball for RAM)."
-   },
-   {
-    "q": "An air-cushion vessel (hovercraft) operating in the non-displacement mode shows, in addition to sidelights, which all-round light?",
-    "choices": [
-     "A. A flashing yellow light",
-     "B. A fixed blue light",
-     "C. A red all-round light",
-     "D. A strobe white light"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 23(c): air-cushion vessels in non-displacement mode shall exhibit an all-round flashing yellow light."
-   },
-   {
-    "q": "A WIG (wing-in-ground) craft, when taking off/landing/in flight near the surface, keeps clear of which vessels?",
-    "choices": [
-     "A. All other vessels",
-     "B. Only power-driven vessels",
-     "C. Only sailing vessels",
-     "D. Only vessels not under command"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 18(f): a WIG craft, when taking off, landing and in flight near the surface, shall keep well clear of all other vessels."
-   },
-   {
-    "q": "Under Rule 9 (narrow channels), a vessel of less than 20 m or a sailing vessel shall:",
-    "choices": [
-     "A. Impede the passage of a vessel which can safely navigate only within a narrow channel",
-     "B. Not impede the passage of such a vessel",
-     "C. Anchor in the channel centre",
-     "D. Sound five short blasts"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 9(c): a vessel of less than 20 m or a sailing vessel shall not impede the passage of a vessel that can safely navigate only within a narrow channel."
-   },
-   {
-    "q": "Vessels fishing in close vicinity of other fishing vessels have special signal requirements. Two vessels fishing on the same side (pair trawling) show:",
-    "choices": [
-     "A. One white light over one red light each",
-     "B. Their fishing lights plus a searchlight directed at the other vessel",
-     "C. Three all-round white lights",
-     "D. A flashing yellow light each"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 26(c)(ii)/Annex II: when shooting/hauling or gear obstructs, extra signals; vessels fishing in close vicinity show searchlight or signals per Annex II."
-   },
-   {
-    "q": "Which sentence best states the Rule 2 caveat (responsibility)?",
-    "choices": [
-     "A. Nothing in the Rules exonerates from neglect of any precaution required by ordinary practice of seamen or special circumstances",
-     "B. The Rules may be ignored in emergencies",
-     "C. The Master may delegate compliance",
-     "D. Local rules override COLREGs entirely"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 2(a): nothing exonerates neglect of precautions required by the ordinary practice of seamen or by the special circumstances of the case."
-   },
-   {
-    "q": "A pilot vessel on pilotage duty shows which lights when at anchor?",
-    "choices": [
-     "A. Anchor lights only",
-     "B. Pilot lights (white over red) plus anchor lights",
-     "C. Pilot lights only",
-     "D. Blue flashing light plus anchor lights"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 29(b): a pilot vessel when not engaged on pilotage duty shall show the lights for a similar vessel of her length; when at anchor she shows anchor lights in addition to pilot lights (Rule 29 + Rule 30)."
-   },
-   {
-    "q": "A vessel towing alongside (pushing ahead, rigid connection) shows which lights?",
-    "choices": [
-     "A. The lights of a power-driven vessel (side, stern, masthead as applicable)",
-     "B. Towing lights (yellow towing light)",
-     "C. RAM lights",
-     "D. Two masthead lights only"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Rule 24(a): a power-driven vessel when pushing ahead or towing alongside (except a rigid connection in a composite unit) shows the ordinary power-driven vessel lights; a rigid composite unit shows the lights of a power-driven vessel."
-   },
-   {
-    "q": "What additional signal may a vessel at anchor in a fairway alert other vessels to her position?",
-    "choices": [
-     "A. Rapid ringing of the bell for 5 seconds, plus three strokes if over 100 m",
-     "B. Five whistle blasts",
-     "C. One prolonged blast every 2 minutes",
-     "D. Continuous bell ringing"
-    ],
-    "answer": "A",
-    "ref": "COLREGs Annex II/Rule 35(g): a vessel at anchor may sound rapid bell ringing for about 5 seconds every minute; over 100 m, also gong aft, plus one preceded/tollowed by one stroke."
-   },
-   {
-    "q": "Under Rule 10 (Traffic Separation Schemes), a vessel may enter a TSS for which reason?",
-    "choices": [
-     "A. To shorten the voyage",
-     "B. Crossing the scheme, joining/leaving at its ends, or in cases of immediate danger",
-     "C. Fishing anywhere within it",
-     "D. Overtaking within the lane"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 10: vessels shall use TSS lanes as designated; crossing at as near as practicable to right angles to the general direction of traffic flow."
-   },
-   {
-    "q": "A dredger working in a fairway with an obstruction on her port side shows which light on that side?",
-    "choices": [
-     "A. Two all-round red lights on the obstructed side",
-     "B. Two all-round green lights on the passable side",
-     "C. A single all-round white light",
-     "D. A flashing yellow light"
-    ],
-    "answer": "B",
-    "ref": "COLREGs Rule 27(d): vessels RAM performing dredging/underwater operations show two all-round red lights on the obstructed side and two all-round green lights on the side vessels may pass."
-   },
-   {
-    "q": "Which of the following is required by STCW Chapter VIII before taking over the navigational watch?",
-    "choices": [
-     "A. The relieving officer must confirm the ship's position, course, speed, and have adjusted to night vision",
-     "B. Only a signature in the deck log",
-     "C. The Master's verbal approval alone",
-     "D. Testing the main engine at full power"
-    ],
-    "answer": "A",
-    "ref": "STCW Code Chapter VIII/4: the relieving officer shall satisfy himself of the ship's estimated/charted position, course, speed, and that vision is adjusted to prevailing light conditions before taking over the watch."
-   }
+    "maritime_malay": [
+      {
+        "q": "Apakah maksud 'Kawasan Perairan Sekatan' dalam notis pelayaran?",
+        "choices": [
+          "A. Kawasan peranginan",
+          "B. Kawasan dilarang masuk tanpa kebenaran",
+          "C. Kawasan memancing",
+          "D. Kawasan berenang"
+        ],
+        "answer": "B",
+        "ref": "'Kawasan Perairan Sekatan' = restricted waters — vessels prohibited from entering without authorization."
+      },
+      {
+        "q": "Apakah fungsi 'Alat Bantuan Navigasi' (AtoN)?",
+        "choices": [
+          "A. Alat untuk memasak di kapal",
+          "B. Alat bantuan navigasi seperti pelampung, rumah api, dan beacon",
+          "C. Alat komunikasi",
+          "D. Alat keselamatan kebakaran"
+        ],
+        "answer": "B",
+        "ref": "AtoN (Aids to Navigation): pelampung (buoys), rumah api (lighthouses), beacon — membantu pelayaran selamat."
+      },
+      {
+        "q": "Apakah maksud 'Kedalaman Air' (Charted Depth) pada carta?",
+        "choices": [
+          "A. Kedalaman purata",
+          "B. Kedalaman minimum di bawah datum carta (biasanya LAT)",
+          "C. Kedalaman semasa air pasang",
+          "D. Kedalaman semasa air surut"
+        ],
+        "answer": "B",
+        "ref": "Kedalaman carta diukur dari datum carta (biasanya Lowest Astronomical Tide) — minimum depth guaranteed."
+      },
+      {
+        "q": "Apakah itu 'Jurang Bawah Lunas' (Underkeel Clearance)?",
+        "choices": [
+          "A. Jarak dari permukaan laut ke dek",
+          "B. Jarak dari lunas kapal ke dasar laut",
+          "C. Lebar kapal",
+          "D. Panjang kapal"
+        ],
+        "answer": "B",
+        "ref": "Underkeel clearance = jarak menegak antara titik terendah lunas kapal dengan dasar laut."
+      },
+      {
+        "q": "Apakah bahasa yang digunakan dalam Notis Pelayar (NTM) di Malaysia?",
+        "choices": [
+          "A. Bahasa Inggeris sahaja",
+          "B. Bahasa Melayu sahaja",
+          "C. Dwibahasa (Bahasa Melayu dan Bahasa Inggeris)",
+          "D. Bahasa Cina"
+        ],
+        "answer": "C",
+        "ref": "NTM Malaysia diterbitkan dalam dwibahasa — tajuk dan maklumat penting dalam kedua-dua bahasa."
+      },
+      {
+        "q": "Apakah maksud 'Laluan Kapal' pada peta pelayaran (chart)?",
+        "choices": [
+          "A. Laluan feri penumpang sahaja",
+          "B. Traffic lane — lorong laluan khusus dalam Traffic Separation Scheme",
+          "C. Laluan ikan",
+          "D. Sempadan negara"
+        ],
+        "answer": "B",
+        "ref": "'Laluan Kapal' merujuk traffic lane dalam TSS — koridor pergerakan satu arah yang ditetapkan IMO."
+      },
+      {
+        "q": "Apakah maksud 'Pusat Kawalan Trafik Kapal' (VTS)?",
+        "choices": [
+          "A. Pusat membeli tiket kapal",
+          "B. Vessel Traffic Service — perkhidmatan memantau dan mengatur pergerakan kapal serta memberi maklumat keselamatan",
+          "C. Klinik kapal",
+          "D. Pejabat kastam"
+        ],
+        "answer": "B",
+        "ref": "VTS = Vessel Traffic Service: perkhidmatan interaksi dengan trafik kapal untuk memantau, mengatur, dan menasihati keselamatan pelayaran."
+      },
+      {
+        "q": "Apakah yang dimaksudkan dengan 'Tebing Pelabuhan' (wharf/quay)?",
+        "choices": [
+          "A. Struktur tepi laut untuk berlabuh dan memunggah muatan",
+          "B. Pulau kecil",
+          "C. Tiang lampu",
+          "D. Alat pancing"
+        ],
+        "answer": "A",
+        "ref": "'Wharf/quay' = struktur bersambung ke darat sepanjang tepi air, kapal berlabuh di sebelahnya untuk memunggah/memuat."
+      },
+      {
+        "q": "Dalam notis pelayaran JLM, frasa 'kapal dilarang berlabuh' menunjukkan kawasan tersebut ialah:",
+        "choices": [
+          "A. Kawasan berlabuh dibenarkan",
+          "B. No anchoring area — kawasan larangan berlabuh (biasanya kerana kabel dasar laut atau paip)",
+          "C. Tempat memancing",
+          "D. Kawasan mandi"
+        ],
+        "answer": "B",
+        "ref": "'Dilarang berlabuh' = no anchoring — biasanya kerana kabel komunikasi/paip bawah dasar laut yang boleh rosak oleh anchor."
+      },
+      {
+        "q": "Apakah 'Kawalan Mula Pelayaran' yang dikeluarkan sebelum kapal bertolak dari pelabuhan?",
+        "choices": [
+          "A. Port clearance — kebenaran rasmi bertolak selepas semua formaliti selesai",
+          "B. Lesen memandu",
+          "C. Tiket penumpang",
+          "D. Sijil pendaftaran kapal"
+        ],
+        "answer": "A",
+        "ref": "Port clearance dikeluarkan selepas Kastam, Imigresen, Kesihatan, dan Pihak Berkuasa Pelabuhan menyelesaikan formaliti — kebenaran bertolak."
+      },
+      {
+        "q": "Apakah maksud 'Air Pasang Purnama' (spring tide)?",
+        "choices": [
+          "A. Pasang biasa",
+          "B. Pasang tertinggi dan surut terendah berlaku semasa bulan purnama/bulan baru — julat pasang surut terbesar",
+          "C. Air surut sahaja",
+          "D. Ombak besar"
+        ],
+        "answer": "B",
+        "ref": "Spring tide: julat pasang surut terbesar, berlaku selepas bulan purnama/bulan baru apabila tarikan matahari-bulan sejajar."
+      },
+      {
+        "q": "Apakah maksud 'Sempadan Perairan' dalam konteks notis pelayaran?",
+        "choices": [
+          "A. Sempadan bandar",
+          "B. Maritime boundary — sempadan perairan wilayah/negara yang menentukan bidang kuasa",
+          "C. Sempadan hutan",
+          "D. Garisan pantai sahaja"
+        ],
+        "answer": "B",
+        "ref": "'Sempadan Perairan' = maritime boundary sempadan bidang kuasa perairan wilayah/negara."
+      },
+      {
+        "q": "Frasa 'Dilaporkan oleh kapal lain' (reported by another vessel) dalam NTM menunjukkan maklumat tersebut:",
+        "choices": [
+          "A. Telah disahkan oleh Jabatan Laut",
+          "B. Belum disahkan — kedudukan mungkin tidak tepat dan bahaya mungkin lebih besar",
+          "C. Adalah palsu",
+          "D. Adalah untuk kapal perang sahaja"
+        ],
+        "answer": "B",
+        "ref": "'Reported' (unverified) information — kedudukan tidak disahkan oleh tinjauan rasmi; mariner perlu beri clearances lebih luas."
+      },
+      {
+        "q": "Apakah maksud 'Kedalaman Carta 21m' di bawah garisan dasar laut yang ditanda?",
+        "choices": [
+          "A. Kedalaman di permukaan semasa",
+          "B. Kedalaman minimum diukur dari datum carta (biasanya LAT) di titik tersebut",
+          "C. Kedalaman maksimum",
+          "D. Ketinggian ombak"
+        ],
+        "answer": "B",
+        "ref": "Soundings diukur dari datum carta (Lowest Astronomical Tide) — 21m ialah kedalaman yang dijamin pada datum tersebut."
+      },
+      {
+        "q": "Apakah maksud 'Kapal Tunda' (tugboat)?",
+        "choices": [
+          "A. Kapal penumpang",
+          "B. Kapal yang membantu menggerakkan/memanuver kapal besar dalam pelabuhan",
+          "C. Kapal tankers",
+          "D. Kapal perikanan"
+        ],
+        "answer": "B",
+        "ref": "Tugboat: kapal khusus untuk menunda/mendorong kapal besar semasa manuver pelabuhan, dock, dan laluan sempit."
+      },
+      {
+        "q": "Frasa 'Berhati-hati — Kerja Penorekan' (dredging operations) dalam NTM bermaksud:",
+        "choices": [
+          "A. Operasi memburu ikan",
+          "B. Kerja pengerukan dasar laut — kapal perlu laluan jauh dari kapal kerja dan risiko",
+          "C. Pembersihan pantai",
+          "D. Latihan ketenteraan"
+        ],
+        "answer": "B",
+        "ref": "Dredging = pengerukan dasar laut (biasanya untuk memperdalamkan laluan); kapal kerja menunjukkan isyarat RAM dan mariner perlu laluan selamat."
+      },
+      {
+        "q": "Apakah 'Lampu Isyarat Bahaya' pada boya menunjukkan?",
+        "choices": [
+          "A. Bahaya di kawasan sekitar boya — kapal perlu elak dan rujuk carta/notis",
+          "B. Tempat selamat berlabuh",
+          "C. Arah utara",
+          "D. Zon memancing"
+        ],
+        "answer": "A",
+        "ref": "Boya bahaya (isophase/occulting light pada isolated danger mark) menandakan bahaya setempat — kapal perlu beri jarak selamat."
+      },
+      {
+        "q": "Dalam Bahasa Malaysia, 'Ketua Pegawai Keselamatan Kapal' merujuk kepada:",
+        "choices": [
+          "A. Ship Security Officer (SSO) di bawah kod ISPS",
+          "B. Jurutera ketua",
+          "C. Nakhoda sahaja",
+          "D. Ketua krew dapur"
+        ],
+        "answer": "A",
+        "ref": "SSO (Ship Security Officer) bertanggungjawab atas pelaksanaan dan penyelenggaraan Pelan Keselamatan Kapal di bawah kod ISPS."
+      },
+      {
+        "q": "Apakah maksud 'Berlabuh di Kawasan Berlabuh' (anchorage)?",
+        "choices": [
+          "A. Berlabuh di mana-mana sahaja",
+          "B. Berlabuh di kawasan yang ditetapkan khas untuk kapal berlabuh selamat",
+          "C. Berlabuh di tengah laluan kapal",
+          "D. Berlabuh tanpa jangkar"
+        ],
+        "answer": "B",
+        "ref": "Anchorage = kawasan yang ditetapkan dalam carta/notis untuk kapal berlabuh — selamat dari laluan kapal, dalam air, dan dengan dasar sesuai."
+      }
+    ]
+  },
+  "OPEN_ENDED": [
+    {
+      "q": "Explain the purpose of a Notice to Mariners and what actions a mariner should take when one is issued.",
+      "keywords": [
+        "navigational",
+        "changes",
+        "hazards",
+        "charts",
+        "aids",
+        "safety",
+        "report",
+        "amendments",
+        "notice"
+      ]
+    },
+    {
+      "q": "What are the key requirements of the ISM Code for shipping companies?",
+      "keywords": [
+        "safety",
+        "management",
+        "system",
+        "SMS",
+        "procedures",
+        "audit",
+        "emergency",
+        "documented",
+        "company"
+      ]
+    },
+    {
+      "q": "Describe the procedure for a man overboard situation.",
+      "keywords": [
+        "lifebuoy",
+        "alarm",
+        "position",
+        "GPS",
+        "lookout",
+        "turn",
+        "Williamson",
+        "rescue",
+        "mark"
+      ]
+    },
+    {
+      "q": "What is the difference between draft and freeboard?",
+      "keywords": [
+        "draft",
+        "keel",
+        "waterline",
+        "freeboard",
+        "deck",
+        "depth",
+        "buoyancy",
+        "loaded"
+      ]
+    },
+    {
+      "q": "Apakah prosedur kecemasan apabila kapal mengalami kebakaran di ruang enjin?",
+      "keywords": [
+        "kebakaran",
+        "CO2",
+        "pemadam",
+        "evakuasi",
+        "alarm",
+        "keselamatan",
+        "muat",
+        "enjin",
+        "sistem"
+      ]
+    },
+    {
+      "q": "Terangkan fungsi Pihak Berkuasa Pelabuhan Klang (PKA).",
+      "keywords": [
+        "menguruskan",
+        "operasi",
+        "pelabuhan",
+        "keselamatan",
+        "navigasi",
+        "pihak",
+        "berkuasa",
+        "carta",
+        "regulasi"
+      ]
+    },
+    {
+      "q": "Describe the immediate actions a watchkeeping officer must take upon receiving a Navigation Warning (Navtex) about an unlit buoy on the vessel's planned track.",
+      "keywords": [
+        "buoy",
+        "unlit",
+        "chart",
+        "correction",
+        "passage",
+        "plan",
+        "position",
+        "radar",
+        "vigilance",
+        "alternate",
+        "notify",
+        "master"
+      ]
+    },
+    {
+      "q": "Explain the difference between a Permanent Notice to Mariners and a Temporary/Preliminary Notice, and how each is handled in a ship's chart correction system.",
+      "keywords": [
+        "permanent",
+        "temporary",
+        "preliminary",
+        "correction",
+        "chart",
+        "block",
+        "cut",
+        "paste",
+        "T&P",
+        "list",
+        "log",
+        "edition"
+      ]
+    },
+    {
+      "q": "A ship is approaching Port Klang. Describe the VTS reporting procedure, the key information to be included in reports, and the purpose of the precautionary area near the approach.",
+      "keywords": [
+        "VTS",
+        "report",
+        "sailing",
+        "position",
+        "ETA",
+        "precautionary",
+        "area",
+        "traffic",
+        "channel",
+        "Klang",
+        "pilot"
+      ]
+    },
+    {
+      "q": "Outline the key differences between Port State Control (PSC) inspection and Flag State survey, and what documents a PSC officer would typically examine on arrival.",
+      "keywords": [
+        "PSC",
+        "flag",
+        "survey",
+        "certificate",
+        "DOC",
+        "SMC",
+        "inspection",
+        "deficiency",
+        "detention",
+        "Tokyo",
+        "MOU",
+        "records"
+      ]
+    },
+    {
+      "q": "Describe the correct use of the GMDSS DSC distress alert on VHF, including the information it conveys and the procedure after the alert is acknowledged.",
+      "keywords": [
+        "DSC",
+        "VHF",
+        "channel 70",
+        "MMSI",
+        "position",
+        "nature",
+        "distress",
+        "acknowledge",
+        "channel 16",
+        "traffic"
+      ]
+    },
+    {
+      "q": "Terangkan prosedur pelaporan dan tindakan yang perlu diambil oleh nakhoda apabila menemui puing kapal (wreck) yang belum dicarta di perairan Malaysia.",
+      "keywords": [
+        "puing",
+        "wreck",
+        "lapor",
+        "kedudukan",
+        "jabatan",
+        "laut",
+        "notis",
+        "bahaya",
+        "carta",
+        "elak",
+        "keselamatan"
+      ]
+    },
+    {
+      "q": "Explain the concept of 'boundary cooling' during a shipboard fire and why it is critical when the fire is adjacent to a cargo hold containing dangerous goods.",
+      "keywords": [
+        "boundary",
+        "cooling",
+        "water",
+        "spray",
+        "bulkhead",
+        "heat",
+        "spread",
+        "dangerous",
+        "goods",
+        "ignition",
+        "temperature"
+      ]
+    },
+    {
+      "q": "What is the role of the Ship Security Officer (SSO) during a security incident at a port facility, and how does the SSO coordinate with the Port Facility Security Officer (PFSO)?",
+      "keywords": [
+        "SSO",
+        "PFSO",
+        "security",
+        "incident",
+        "ISPS",
+        "plan",
+        "coordination",
+        "communication",
+        "authority",
+        "notification",
+        "assessment"
+      ]
+    },
+    {
+      "q": "Terangkan kepentingan 'Underkeel Clearance' semasa kapal memasuki pelabuhan, dan faktor-faktor yang perlu dipertimbangkan oleh nakhoda sebelum memasuki laluan yang cetek.",
+      "keywords": [
+        "underkeel",
+        "clearance",
+        "kedalaman",
+        "draft",
+        "lunas",
+        "pasang",
+        "surut",
+        "tide",
+        "squating",
+        "keselamatan",
+        "carta",
+        "datum"
+      ]
+    }
   ],
-  "solas_marpol": [
-   {
-    "q": "SOLAS Chapter II-2 deals with:",
-    "choices": [
-     "A. Navigation safety",
-     "B. Fire protection, fire detection and fire extinction",
-     "C. Radio communications",
-     "D. Cargo handling"
-    ],
-    "answer": "B",
-    "ref": "SOLAS Chapter II-2 covers fire protection, fire detection, and fire extinction."
-   },
-   {
-    "q": "MARPOL Annex V regulates:",
-    "choices": [
-     "A. Oil pollution",
-     "B. Sewage",
-     "C. Garbage",
-     "D. Air emissions"
-    ],
-    "answer": "C",
-    "ref": "MARPOL Annex V: prevention of pollution by garbage from ships."
-   },
-   {
-    "q": "What is the minimum freeboard determined by?",
-    "choices": [
-     "A. Load Line Convention (1966/1988)",
-     "B. SOLAS",
-     "C. MARPOL",
-     "D. STCW"
-    ],
-    "answer": "A",
-    "ref": "The International Load Line Convention determines minimum freeboard based on ship type, season, and zone."
-   },
-   {
-    "q": "MARPOL Annex VI addresses:",
-    "choices": [
-     "A. Oil pollution",
-     "B. Noxious liquids",
-     "C. Air pollution from ships",
-     "D. Ballast water"
-    ],
-    "answer": "C",
-    "ref": "MARPOL Annex VI: prevention of air pollution from ships (SOx, NOx, particulate matter)."
-   },
-   {
-    "q": "Under SOLAS, how often must lifeboats be launched during drills?",
-    "choices": [
-     "A. Weekly",
-     "B. Monthly",
-     "C. Every 3 months",
-     "D. Every 6 months"
-    ],
-    "answer": "C",
-    "ref": "SOLAS III/19.3.1: lifeboats must be launched with their assigned crew every 3 months."
-   },
-   {
-    "q": "What is the purpose of the ISM Code?",
-    "choices": [
-     "A. Pollution prevention",
-     "B. Safety management system",
-     "C. Crew certification",
-     "D. Ship construction"
-    ],
-    "answer": "B",
-    "ref": "International Safety Management (ISM) Code requires a Safety Management System (SMS) with documented procedures and audits."
-   },
-   {
-    "q": "MARPOL Annex VI SOx emission limit in Emission Control Areas (ECAs) is:",
-    "choices": [
-     "A. 3.5% m/m",
-     "B. 1.5% m/m",
-     "C. 0.5% m/m",
-     "D. 0.1% m/m"
-    ],
-    "answer": "C",
-    "ref": "MARPOL Annex VI: 0.5% sulphur content limit globally, 0.1% in ECAs (effective 2020)."
-   },
-   {
-    "q": "What does the term 'load line' refer to?",
-    "choices": [
-     "A. Maximum cargo weight",
-     "B. Maximum legal draft to which a ship may be loaded",
-     "C. Fuel loading limit",
-     "D. Crane lifting capacity"
-    ],
-    "answer": "B",
-    "ref": "Load Line Convention: marks on the ship's hull indicating the maximum legal draft in different water conditions."
-   },
-   {
-    "q": "Under MARPOL Annex VI, what is the maximum sulphur content (mass) permitted for fuel oil used onboard ships outside Emission Control Areas (ECAs) since 1 January 2020?",
-    "choices": [
-     "A. 3.50% m/m",
-     "B. 0.50% m/m",
-     "C. 0.10% m/m",
-     "D. 1.00% m/m"
-    ],
-    "answer": "B",
-    "ref": "MARPOL Annex VI Reg. 14.1.3: sulphur content of fuel oil used onboard shall not exceed 0.50% m/m outside ECAs (from 1 March 2020 carriage ban on non-compliant fuel)."
-   },
-   {
-    "q": "Within an Emission Control Area (ECA), the maximum fuel sulphur content is:",
-    "choices": [
-     "A. 0.50% m/m",
-     "B. 1.50% m/m",
-     "C. 0.10% m/m",
-     "D. 0.00% m/m"
-    ],
-    "answer": "C",
-    "ref": "MARPOL Annex VI Reg. 14.4: sulphur content within ECAs shall not exceed 0.10% m/m."
-   },
-   {
-    "q": "Under MARPOL Annex I, discharge of oily bilge water from machinery spaces is permitted only if the oil content of the effluent without dilution does not exceed:",
-    "choices": [
-     "A. 100 ppm",
-     "B. 15 ppm",
-     "C. 500 ppm",
-     "D. Zero discharge permitted"
-    ],
-    "answer": "B",
-    "ref": "MARPOL Annex I Reg. 15.3: oily bilge water discharge permitted when oil content < 15 ppm with operating oil-filtering equipment and outside special areas conditions."
-   },
-   {
-    "q": "Which annex of MARPOL governs the prevention of pollution by sewage from ships?",
-    "choices": [
-     "A. Annex IV",
-     "B. Annex V",
-     "C. Annex II",
-     "D. Annex III"
-    ],
-    "answer": "A",
-    "ref": "MARPOL Annex IV: Prevention of pollution by sewage from ships."
-   },
-   {
-    "q": "Under SOLAS Chapter V, from what date must all ships carry an Electronic Chart Display and Information System (ECDIS) per the performance standards (for ships built after 1 July 2012 on keels after that date on new builds)?",
-    "choices": [
-     "A. ECDIS is voluntary on all ships",
-     "B. Phased mandatory carriage per SOLAS V/19.2.10 implementation schedule",
-     "C. Required only for tankers",
-     "D. Required only above 50,000 GT"
-    ],
-    "answer": "B",
-    "ref": "SOLAS V/19.2.10 as amended (MSC.317(88)): phased ECDIS mandatory carriage schedule by ship type and size."
-   },
-   {
-    "q": "The ship's Oil Record Book Part I (machinery space operations) must be retained onboard for at least:",
-    "choices": [
-     "A. 6 months",
-     "B. 1 year",
-     "C. 3 years",
-     "D. 5 years"
-    ],
-    "answer": "C",
-    "ref": "MARPOL Annex I Reg. 17: Oil Record Book entries shall be preserved onboard for a period of three years after the last entry."
-   },
-   {
-    "q": "Under SOLAS Regulation III/19, abandon ship drills and fire drills must be conducted (for passenger ships) at intervals of:",
-    "choices": [
-     "A. Weekly",
-     "B. Every two weeks",
-     "C. Monthly",
-     "D. Every three months"
-    ],
-    "answer": "A",
-    "ref": "SOLAS III/19.2.1.2: on passenger ships, abandon ship and fire drills shall take place weekly."
-   },
-   {
-    "q": "The ISM Code requires the company to establish a Safety Management System (SMS). Which document is the company's written statement of its safety objectives and commitment?",
-    "choices": [
-     "A. The Safety Management Manual",
-     "B. The Safety and Environmental Protection Policy",
-     "C. The Master's Overriding Authority letter",
-     "D. The Document of Compliance (DOC)"
-    ],
-    "answer": "B",
-    "ref": "ISM Code Para 2: the company should establish a safety and environmental protection policy; para 4 defines the SMS which includes it."
-   },
-   {
-    "q": "Under MARPOL Annex V (garbage), which of the following may be discharged into the sea outside special areas?",
-    "choices": [
-     "A. Plastics",
-     "B. Food comminuted to <25 mm at ≥3 nm from nearest land",
-     "C. Oily rags",
-     "D. Incinerator ashes containing plastics"
-    ],
-    "answer": "B",
-    "ref": "MARPOL Annex V Reg. 4/6: food waste comminuted/ground to <25 mm may be discharged ≥3 nm from nearest land (outside special areas); plastics prohibited everywhere."
-   },
-   {
-    "q": "Under SOLAS Regulation II-2, the Fire Control Plan must be permanently exhibited and show, among other items:",
-    "choices": [
-     "A. Location of fire pumps, extinguishers, controls, and ventilation shut-offs",
-     "B. Crew sleeping quarters only",
-     "C. Cargo stowage plan",
-     "D. Engine exhaust temperatures"
-    ],
-    "answer": "A",
-    "ref": "SOLAS II-2/15.2.3: fire control plans shall show fire-control stations, fire pumps, extinguishers, dampers, fire detectors, and access routes."
-   },
-   {
-    "q": "The Ship Oil Pollution Emergency Plan (SOPEP) is required under:",
-    "choices": [
-     "A. MARPOL Annex I Reg. 37",
-     "B. SOLAS Chapter IX",
-     "C. MARPOL Annex VI",
-     "D. STCW Chapter VI"
-    ],
-    "answer": "A",
-    "ref": "MARPOL Annex I Reg. 37: every oil tanker of 150 GT and every ship other than an oil tanker of 400 GT and above shall carry a SOPEP approved by the Administration."
-   },
-   {
-    "q": "Ballast Water Management under the BWM Convention requires D-2 performance standard discharge of viable organisms below specified limits. The D-2 standard applies to ballast water exchange/operations how?",
-    "choices": [
-     "A. Replaces D-1 exchange entirely since 2017",
-     "B. As a performance standard applied via type-approved BWMS after the phase-in schedule",
-     "C. Only in port",
-     "D. Only for tankers"
-    ],
-    "answer": "B",
-    "ref": "BWM Convention (2004, in force 8 Sep 2017) Reg. D-2: ships shall discharge ballast water that meets D-2 organism concentration limits via type-approved Ballast Water Management Systems per the phase-in."
-   }
-  ],
-  "ntm_interpretation": [
-   {
-    "q": "An NTM states: 'Light buoy FL(3)10s at 03°02'N 101°20'E reported UNLIT.' What should mariners do?",
-    "choices": [
-     "A. Ignore — it will be fixed soon",
-     "B. Navigate with caution, do not rely on it at night, report the discrepancy",
-     "C. Anchor nearby until fixed",
-     "D. Only transit in daylight"
-    ],
-    "answer": "B",
-    "ref": "Standard NTM practice: treat unlit aids as unreliable, use alternative navigation, report to the hydrographic office."
-   },
-   {
-    "q": "An NTM announces: 'Drilling rig to be positioned at 05°30'N 100°30'E, radius 500m, surface to seabed.' What is the safe distance?",
-    "choices": [
-     "A. 100m",
-     "B. 250m",
-     "C. 500m from the rig position",
-     "D. 1 nautical mile"
-    ],
-    "answer": "C",
-    "ref": "The exclusion zone is 500m radius from the stated position — vessels must stay outside this area."
-   },
-   {
-    "q": "An NTM states: 'Dredging operations in the fairway. Depths reduced to 8.5m. Dredger 'MUD WARRIOR' standing by on VHF Ch 12.' What should a vessel with 9m draft do?",
-    "choices": [
-     "A. Proceed at high speed",
-     "B. Transit with caution maintaining at least 1m underkeel clearance, contact the dredger on VHF Ch 12",
-     "C. Avoid the area entirely",
-     "D. Wait for high water"
-    ],
-    "answer": "B",
-    "ref": "With 8.5m depth and 9m draft, the vessel would be aground. Cannot transit safely. Must use alternative route or wait for dredging to deepen the channel. (Answer: C — avoid the area entirely is most correct as 9m draft > 8.5m depth)"
-   },
-   {
-    "q": "A 'dredged depth maintained at 10m below chart datum' means:",
-    "choices": [
-     "A. The water is always exactly 10m deep",
-     "B. Minimum depth of 10m is guaranteed at lowest astronomical tide (LAT)",
-     "C. 10m at high water",
-     "D. 10m average depth"
-    ],
-    "answer": "B",
-    "ref": "Charted depths are referenced to chart datum (typically LAT). Dredging maintains this minimum depth."
-   },
-   {
-    "q": "An NTM cancels a previous notice (NTM 25(T)/2023). What does the mariner do?",
-    "choices": [
-     "A. Assume the hazard is resolved",
-     "B. Remove NTM 25(T)/2023 from the list of active temporary notices",
-     "C. Both A and B",
-     "D. Ignore it"
-    ],
-    "answer": "C",
-    "ref": "Cancellation means the temporary notice is no longer in force — the hazard should be resolved or the information superseded."
-   },
-   {
-    "q": "A Temporary & Preliminary Notice to Mariners (T&P NM) differs from a Permanent NM in that:",
-    "choices": [
-     "A. It is published only weekly",
-     "B. Its information is of a temporary nature or subject to change, and is not immediately incorporated into permanent charts",
-     "C. It applies only to naval vessels",
-     "D. It does not require chart correction"
-    ],
-    "answer": "B",
-    "ref": "T&P NMs convey information that is temporary (dredging, buoy changes pending) or preliminary (permanent change expected); they are consolidated in the T&P list and not cut into charts until made permanent."
-   },
-   {
-    "q": "A Notice to Mariners states: 'Buoy No. 3 in position 03°00'.2N, 101°18'.5E is UNLIT until further notice.' The primary navigational action for the mariner is:",
-    "choices": [
-     "A. Ignore the buoy since it is unlit",
-     "B. Treat the buoy as unlit and pass with caution, annotating the chart and planning alternate fixing",
-     "C. Report the buoy as wrecked",
-     "D. Shift to the next lane only"
-    ],
-    "answer": "B",
-    "ref": "UNLIT marks mean the aid's light is unreliable: the mariner must annotate the chart, adjust the passage plan for reduced aid availability, and maintain extra vigilance/alternate position fixing."
-   },
-   {
-    "q": "The Annual Summary of Admiralty Notices to Mariners is used primarily to:",
-    "choices": [
-     "A. Replace the chart catalogue",
-     "B. Provide consolidated T&P NM status and other annual information (e.g., maritime radio services, amended blocks)",
-     "C. List new chart editions only",
-     "D. Record ship positions"
-    ],
-    "answer": "B",
-    "ref": "The Annual Summary (NP247(1)/(2)) consolidates currently valid T&P NMs and contains annual notices on maritime radio, weather services, etc."
-   },
-   {
-    "q": "Chart correction by NM cut-and-paste requires the mariner to:",
-    "choices": [
-     "A. Paste the correction block over the old information and record the NM number/year in the chart's corner",
-     "B. Redraw the chart",
-     "C. File the NM and ignore the chart until a new edition",
-     "D. Correct only the largest-scale chart"
-    ],
-    "answer": "A",
-    "ref": "Standard chart correction practice: apply the NM block to the affected chart(s), note the NM number/year beside the correction, and maintain the chart correction log."
-   },
-   {
-    "q": "An NTM announces that a light's character changed from Fl(2) R 10s to Fl R 5s. The mariner must correct:",
-    "choices": [
-     "A. Only the Sailing Directions",
-     "B. The chart(s), the List of Lights entry, and update any route/plan annotations referencing the old character",
-     "C. Nothing — lights are corrected by the manufacturer",
-     "D. Only the tidal stream atlas"
-    ],
-    "answer": "B",
-    "ref": "Light character changes require chart amendment plus correction of the List of Lights (ALL volumes affected) and review of passage plans referencing the light."
-   },
-   {
-    "q": "A 'Preliminary Notice to Mariners' (P) announces an upcoming permanent change. Its function is to:",
-    "choices": [
-     "A. Substitute for chart correction permanently",
-     "B. Alert mariners early so they can plan, pending the new chart edition/publication",
-     "C. Cancel existing buoys",
-     "D. Replace the Sailing Directions"
-    ],
-    "answer": "B",
-    "ref": "(P) NMs give early warning of changes to be incorporated in forthcoming chart editions, allowing pre-emptive planning before blocks are issued."
-   },
-   {
-    "q": "An NTM references 'depths are in metres and fathoms'. Under this chart's units statement, the soundings are:",
-    "choices": [
-     "A. All in metres",
-     "B. Mixed: metres for depths under 21 and fathoms+feet in deeper waters (typical older charts)",
-     "C. All in fathoms",
-     "D. In feet only"
-    ],
-    "answer": "B",
-    "ref": "Charts annotated 'depths in metres and fathoms' use metres for shallow soundings and fathoms/feet for deeper soundings — the units statement governs interpretation; modern charts use metres only."
-   },
-   {
-    "q": "A JLM (Marine Department Malaysia) NTM announces a traffic diversion in the Malacca Strait TSS due to a drilling operation. Under COLREGs Rule 10, vessels should:",
-    "choices": [
-     "A. Ignore the diversion if outside territorial waters",
-     "B. Comply with the announced routing measures as IMO-adopted scheme amendments, cross at right angles if crossing",
-     "C. Anchor in the traffic lane",
-     "D. Fish in the precautionary area"
-    ],
-    "answer": "B",
-    "ref": "TSS amendments announced through NTMs reflect IMO-adopted routing; Rule 10 requires compliance with traffic flow and right-angle crossing."
-   },
-   {
-    "q": "The term 'Wreck — uncharted, reported' on a radio navigational warning means:",
-    "choices": [
-     "A. The wreck is surveyed and charted",
-     "B. A wreck reported but not yet surveyed; position may be approximate and danger may be greater than shown",
-     "C. The wreck was removed",
-     "D. The wreck is marked by a lightvessel"
-    ],
-    "answer": "B",
-    "ref": "'Reported' wrecks have unverified positions from third-party reports; mariners must give wide clearance until surveyed and charted."
-   },
-   {
-    "q": "Radio Navigational Warnings (Navtex/NAVAREA) and printed NTMs are complementary because:",
-    "choices": [
-     "A. They duplicate each other entirely",
-     "B. Navtex provides immediate broadcast of urgent warnings; printed NTMs provide the permanent/consolidated record for chart correction",
-     "C. Navtex replaces chart correction",
-     "D. NTMs are only for fishermen"
-    ],
-    "answer": "B",
-    "ref": "Urgent warnings are broadcast (NAVTEX/NAVAREA/Inmarsat EGC); the printed NM system provides the auditable, consolidated correction record — both are required components of chart maintenance."
-   },
-   {
-    "q": "An NTM correction block includes a small circle with the words 'Wk 27m'. On the chart this annotation represents:",
-    "choices": [
-     "A. A waypoint 27 nautical miles away",
-     "B. A wreck with 27 metres depth of water over it",
-     "C. A wharf of 27 m length",
-     "D. A water tower 27 m high"
-    ],
-    "answer": "B",
-    "ref": "Chart abbreviation 'Wk' = wreck; a number beside a wreck symbol denotes the depth of water over the wreck (e.g., Wk 27m = 27 m clearance)."
-   },
-   {
-    "q": "The NM 'Dredging operations in position ... from 070001Z to 150001Z MAR' — what does the 'Z' suffix denote?",
-    "choices": [
-     "A. Local zone time",
-     "B. UTC (Zulu) time",
-     "C. Zonal boundary",
-     "D. Zenith angle"
-    ],
-    "answer": "B",
-    "ref": "The 'Z' suffix denotes Zulu time (UTC), standard in all NMs and radio warnings to avoid time-zone ambiguity."
-   },
-   {
-    "q": "A chart correction is to be applied to two charts. The NM block is drawn for the small-scale chart only. The mariner should:",
-    "choices": [
-     "A. Ignore the large-scale chart",
-     "B. Construct an equivalent correction on the larger-scale chart by hand, consistent with the NM's information",
-     "C. Request a paper block from the publisher only",
-     "D. Wait for the next edition"
-    ],
-    "answer": "B",
-    "ref": "When an NM block applies to one chart only, corrections on other affected charts are made by hand from the NM's textual information, keeping scales and positions consistent."
-   },
-   {
-    "q": "The 'Notices to Mariners' published by the Marine Department Malaysia (Jabatan Laut Malaysia) are primarily concerned with:",
-    "choices": [
-     "A. Global oceanographic research",
-     "B. Malaysian waters: port notices, buoyage, dredging, obstructions, and navigation restrictions in Malaysian jurisdictions",
-     "C. Fishing quotas",
-     "D. Crew certification"
-    ],
-    "answer": "B",
-    "ref": "JLM NTMs announce Malaysian-local navigation information — port circulars, buoy changes, restrictions, dredging — complementing ADMIRALTY NMs for Malaysian waters."
-   },
-   {
-    "q": "If two NTMs conflict (one announces a buoy's relocation, a later one cancels it), which applies?",
-    "choices": [
-     "A. The earlier NM",
-     "B. The later NM in date order; later information supersedes earlier, and the chart correction log must reflect the sequence",
-     "C. Both simultaneously",
-     "D. The one with the larger chart number"
-    ],
-    "answer": "B",
-    "ref": "NTMs are applied in strict date order; a later NM cancelling an earlier one supersedes it, and the correction log records the supersession."
-   }
-  ],
-  "port_operations": [
-   {
-    "q": "In Port Klang, what does VTS stand for and what is its primary function?",
-    "choices": [
-     "A. Vessel Traffic Service — monitors and coordinates ship movements",
-     "B. Verified Technical Standard — inspection protocol",
-     "C. Very Tidal System — tidal monitoring",
-     "D. Vessel Transit Speed — speed limit system"
-    ],
-    "answer": "A",
-    "ref": "Vessel Traffic Service provides monitoring, advisory, and organizational services to ensure safe navigation in the port approach."
-   },
-   {
-    "q": "What is the purpose of a Ship Security Plan (SSP) under ISPS Code?",
-    "choices": [
-     "A. Cargo stowage plan",
-     "B. Security procedures for threat levels 1-3",
-     "C. Engine maintenance schedule",
-     "D. Crew rotation plan"
-    ],
-    "answer": "B",
-    "ref": "ISPS Code requires SSP documenting security measures at Security Level 1 (normal), Level 2 (heightened), Level 3 (exceptional)."
-   },
-   {
-    "q": "What is a Port State Control (PSC) inspection?",
-    "choices": [
-     "A. Flag state inspection at home port",
-     "B. Inspection by a foreign port to verify compliance with international conventions",
-     "C. Class survey",
-     "D. Insurance survey"
-    ],
-    "answer": "B",
-    "ref": "PSC: coastal states inspect foreign vessels to verify compliance with SOLAS, MARPOL, STCW, Load Line."
-   },
-   {
-    "q": "What are the three components of the Ship Security Certification process?",
-    "choices": [
-     "A. SSAS, AIS, VDR",
-     "B. Ship Security Plan, Ship Security Officer, Company Security Officer",
-     "C. Radar, GPS, ECDIS",
-     "D. Load line, tonnage, registry"
-    ],
-    "answer": "B",
-    "ref": "ISPS: Ship Security Plan (SSP), Ship Security Officer (SSO), and Company Security Officer (CSO) form the security framework."
-   },
-   {
-    "q": "What is pilotage?",
-    "choices": [
-     "A. Self-navigation by the captain",
-     "B. The act of a licensed pilot navigating the vessel in port waters",
-     "C. Aircraft navigation",
-     "D. Weather routing"
-    ],
-    "answer": "B",
-    "ref": "Pilotage: a licensed maritime pilot with local knowledge boards and navigates the vessel through port waters and channels."
-   },
-   {
-    "q": "Port Klang comprises three terminals. Which of the following is NOT one of them?",
-    "choices": [
-     "A. Northport",
-     "B. Westports",
-     "C. Southpoint",
-     "D. Tanjung Pelepas"
-    ],
-    "answer": "D",
-    "ref": "Port Klang's terminals: Northport (Malaysia), Westports, and Southpoint (cruise/small craft). Tanjung Pelepas (PTP) is a separate port in Johor."
-   },
-   {
-    "q": "The Port Klang Authority (PKA) is established under which legislation?",
-    "choices": [
-     "A. Port Authorities Act 1963 (Act 171 / Port Klang Authority Act)",
-     "B. Merchant Shipping Ordinance 1952",
-     "C. SOLAS 74",
-     "D. Customs Act 1967"
-    ],
-    "answer": "A",
-    "ref": "Port Klang Authority was established under the Port Authorities Act 1963 (now Port Klang Authority Act), as the statutory port regulator and landlord."
-   },
-   {
-    "q": "A vessel departing Port Klang must notify the VTS (Klang Vessel Traffic Service) at what point per standard reporting procedures?",
-    "choices": [
-     "A. Sailing report/departure report at departure and position reports at designated reporting points",
-     "B. Only on arrival",
-     "C. Only in case of emergency",
-     "D. Only when carrying dangerous goods"
-    ],
-    "answer": "A",
-    "ref": "Klang VTS standard reporting: sailing (departure) report upon leaving berth, plus position reports at designated waypoints within the VTS area."
-   },
-   {
-    "q": "Under the ISPS Code, a Port Facility Security Assessment (PFSA) is conducted by:",
-    "choices": [
-     "A. The port facility itself without oversight",
-     "B. The Recognized Security Organization (RSO) on behalf of the Designated Authority",
-     "C. The ship's master",
-     "D. The flag state only"
-    ],
-    "answer": "B",
-    "ref": "ISPS Code Part A/15: PFSA is carried out by the port facility's personnel, the RSO, or the Designating Authority; approved by the D.A."
-   },
-   {
-    "q": "Ship Security Alert System (SSAS) activation in Port Klang waters triggers a response from:",
-    "choices": [
-     "A. The ship's owner only",
-     "B. The designated flag state authority and, within port limits, the port facility security officer and relevant Malaysian authorities (MMEA/Marine Dept)",
-     "C. No one — it is a silent alarm",
-     "D. The classification society"
-    ],
-    "answer": "B",
-    "ref": "SSAS alerts route to flag administration and company; within port waters, local authorities (Marine Dept/MMEA/port facility) coordinate the response under ISPS Part B guidance."
-   },
-   {
-    "q": "Port State Control (PSC) inspections in Malaysian ports are conducted under which regional MOU?",
-    "choices": [
-     "A. Paris MOU",
-     "B. Tokyo MOU",
-     "C. Indian Ocean MOU",
-     "D. USCG PSC"
-    ],
-    "answer": "B",
-    "ref": "Malaysia is a member authority of the Tokyo MOU on Port State Control in the Asia-Pacific Region."
-   },
-   {
-    "q": "A PSC officer detains a vessel due to a defective lifeboat davit. The detention is recorded in the Tokyo MOU database (APCIS). To release the vessel, the operator must:",
-    "choices": [
-     "A. Pay a fine",
-     "B. Rectify the deficiency to the PSC authority's satisfaction and obtain a follow-up inspection clearing the detention",
-     "C. Change flag",
-     "D. Sail at night"
-    ],
-    "answer": "B",
-    "ref": "Tokyo MOU procedure: detention is lifted after rectification verified by re-inspection; the deficiency and clearance are recorded in APCIS."
-   },
-   {
-    "q": "Which document proves a ship's compliance with the ISM Code and is held by the company (not the ship)?",
-    "choices": [
-     "A. Safety Management Certificate (SMC)",
-     "B. Document of Compliance (DOC)",
-     "C. Interim SMC",
-     "D. Certificate of Registry"
-    ],
-    "answer": "B",
-    "ref": "ISM Code: the DOC is issued to the company after verifying SMS ashore; the SMC is issued to each ship after verifying onboard implementation."
-   },
-   {
-    "q": "Pilotage in Port Klang for vessels above a specified gross tonnage is:",
-    "choices": [
-     "A. Voluntary",
-     "B. Compulsory within the port limits (per Port Authority regulations), except exempted vessels",
-     "C. Required only at night",
-     "D. Abolished"
-    ],
-    "answer": "B",
-    "ref": "Port Klang Authority regulations make pilotage compulsory for specified vessel sizes within port limits, with exemptions for certain coastal/short-strait vessels."
-   },
-   {
-    "q": "A container vessel berths at Westports with a defective crane on the quay. Which authority coordinates the safety exclusion zone around the defective crane?",
-    "choices": [
-     "A. The terminal operator (port facility) with PKA oversight",
-     "B. The classification society",
-     "C. The ship's chandler",
-     "D. IMO"
-    ],
-    "answer": "A",
-    "ref": "Port facility safety management (ISPS Part A/16) and port authority oversight (PKA as regulator) coordinate such zones; the terminal operator manages day-to-day ops."
-   },
-   {
-    "q": "Under Port Klang VTS, a 'precautionary area' is defined as:",
-    "choices": [
-     "A. An area where anchoring is encouraged",
-     "B. An area within a TSS/VTS where vessels must navigate with particular caution and report",
-     "C. A fishing reserve",
-     "D. A pilot boarding ground"
-    ],
-    "answer": "B",
-    "ref": "Precautionary areas (per IMO routing and VTS practice) require heightened vigilance, reporting, and careful navigation due to converging traffic or hazards."
-   },
-   {
-    "q": "Dangerous goods arriving at Port Klang by sea require which documentation under the IMDG Code?",
-    "choices": [
-     "A. Dangerous Goods Declaration (DGD) with proper shipping name, class, UN number, and packing group",
-     "B. Only a commercial invoice",
-     "C. A customs form only",
-     "D. A verbal notice to the pilot"
-    ],
-    "answer": "A",
-    "ref": "IMDG Code Ch. 5.4: Dangerous Goods Declaration with proper shipping name, UN number, class, packing group, EMS, and other mandatory fields."
-   },
-   {
-    "q": "A ship at anchorage in the Port Klang Outer Anchorage must maintain:",
-    "choices": [
-     "A. A proper anchor watch per SOLAS V/34-1 and the SMS procedures, monitoring position and traffic",
-     "B. No watch if the anchor holds",
-     "C. Only a daytime watch",
-     "D. Watch only during PSC inspections"
-    ],
-    "answer": "A",
-    "ref": "SOLAS V/34-1 (Master's responsibility) and SMS watchkeeping arrangements require a safe anchor watch monitoring position, dragging risk, and traffic."
-   },
-   {
-    "q": "The 'Port Clearance' required before a vessel sails from Port Klang is issued by:",
-    "choices": [
-     "A. The shipping agent after clearance from Customs, Immigration, Port Health, and the Port Authority",
-     "B. The master alone",
-     "C. The pilot",
-     "D. The classification society"
-    ],
-    "answer": "A",
-    "ref": "Port clearance is granted after all port formalities (Customs, Immigration, Quarantine/Port Health, Authority dues) are completed, typically coordinated by the agent."
-   },
-   {
-    "q": "Under Port Klang regulations, a vessel shifting between terminals within the port limits generally requires:",
-    "choices": [
-     "A. A new pilotage engagement and VTS notification for the shift",
-     "B. Nothing — shifts are unregulated",
-     "C. Only tug assistance",
-     "D. A new customs declaration"
-    ],
-    "answer": "A",
-    "ref": "Inter-terminal shifts within port limits remain subject to pilotage and VTS reporting requirements per port regulations."
-   },
-   {
-    "q": "Under PKA Notice KS/LPK/01/2025, what is the maximum trim limit 'by astern' for a vessel with LOA less than 200 metres navigating within Port Klang limits?",
-    "choices": [
-     "A. 2.5 metres",
-     "B. 4.0 metres",
-     "C. 0.5 metres",
-     "D. 1.5 metres"
-    ],
-    "answer": "A",
-    "ref": "PKA Notice KS/LPK/01/2025: vessels LOA <200m — maximum trim 2.5 m 'by astern'."
-   },
-   {
-    "q": "Under PKA Notice KS/LPK/01/2025, a vessel with LOA exceeding 200 metres has a maximum trim 'by astern' of:",
-    "choices": [
-     "A. 2.5 m",
-     "B. 0.5 m",
-     "C. 4.0 m",
-     "D. 3.0 m"
-    ],
-    "answer": "C",
-    "ref": "PKA Notice KS/LPK/01/2025 para 1(ii): LOA >200 m — maximum trim 4.0 m 'by astern'."
-   },
-   {
-    "q": "Under PKA Notice KS/LPK/01/2025, when a vessel's trim exceeds the specified limits in an emergency, who must the shipping agent submit a written request to?",
-    "choices": [
-     "A. LPK (Port Klang Authority)",
-     "B. The terminal operator only",
-     "C. The vessel's flag state",
-     "D. The classification society"
-    ],
-    "answer": "A",
-    "ref": "PKA Notice KS/LPK/01/2025 para 2: written request to LPK (Port Klang Authority); approval subject to specified conditions."
-   },
-   {
-    "q": "According to the Port Klang DG Transshipment Guideline, which IMO Class is NOT permitted for transshipment at all (with one exception)?",
-    "choices": [
-     "A. IMO Class 1 Explosives (except 1.4S)",
-     "B. IMO Class 5.1 Oxidizers (PG II)",
-     "C. IMO Class 8 Corrosives (PG II)",
-     "D. IMO Class 3 Flammable Liquids (PG III)"
-    ],
-    "answer": "A",
-    "ref": "Port Klang DG Transshipment Guideline item 1(i): IMO Class 1 Explosives not permitted except 1.4S."
-   },
-   {
-    "q": "Under the Port Klang DG Transshipment Guideline, are Infectious Substances (IMO Class 6.2) permitted for transshipment?",
-    "choices": [
-     "A. Yes, with standard packing",
-     "B. No — Class 6.2 Infectious Substances are on the not-permitted list",
-     "C. Only with government escort",
-     "D. Only in refrigerated containers"
-    ],
-    "answer": "B",
-    "ref": "Port Klang DG Transshipment Guideline item 1(xiii): IMO Class 6.2 Infectious Substances not permitted for transshipment."
-   },
-   {
-    "q": "Per the Port Klang DG Transshipment Guideline, dangerous goods on the restricted list (except Class 1) may still be considered for transshipment on a case-by-case basis. What must the shipper do?",
-    "choices": [
-     "A. Nothing — automatic approval",
-     "B. Make an advance inquiry to the Authority providing UN No., IMO Class, and other details, subject to additional safety precautions imposed",
-     "C. Ship it without declaration",
-     "D. Only notify the pilot"
-    ],
-    "answer": "B",
-    "ref": "Port Klang DG Transshipment Guideline item 2: case-by-case consideration subject to additional safety/security precautions; advance inquiry with UN No. and IMO Class details advisable."
-   },
-   {
-    "q": "Per PKA Notice KS/LPK/10/2015, which IMDG Code amendment did Port Klang adopt effective 1 January 2016?",
-    "choices": [
-     "A. Amendment 37-14",
-     "B. Amendment 39-18",
-     "C. Amendment 35-10",
-     "D. Amendment 40-20"
-    ],
-    "answer": "A",
-    "ref": "PKA Notice KS/LPK/10/2015 para 1: LPK adopted all 37-14 IMDG Code amendments effective 1 January 2016."
-   },
-   {
-    "q": "Per PKA Notice KS/LPK/10/2015, what must the importer/manufacturer provide to LPK before discharging vehicles/equipment meeting SP961 requirements (UN 3166/3171)?",
-    "choices": [
-     "A. A Letter of Indemnity (LOI)",
-     "B. A crew list",
-     "C. A stowage plan",
-     "D. A fuel quality certificate"
-    ],
-    "answer": "A",
-    "ref": "PKA Notice KS/LPK/10/2015 para 6: Letter of Indemnity (LOI) submitted to LPK before discharge (import) or loading (export) for SP961-compliant vehicles/equipment."
-   },
-   {
-    "q": "Per PKA Notice KS/LPK/10/2015, who must make the dangerous goods declaration for UN 3166/3171 vehicles for import, transhipment and transit cargo?",
-    "choices": [
-     "A. The shipping agent (ejen perkapalan); the forwarding agent for export",
-     "B. The crew",
-     "C. The terminal operator",
-     "D. The PSC officer"
-    ],
-    "answer": "A",
-    "ref": "PKA Notice KS/LPK/10/2015 para 3: DG declaration by shipping agent (import/transhipment/transit) and forwarding agent (export)."
-   },
-   {
-    "q": "Per the Port Klang Marine Handbook, what is the general speed limit for all vessels within Port Klang waters?",
-    "choices": [
-     "A. 12 knots maximum",
-     "B. 8 knots maximum",
-     "C. 15 knots maximum",
-     "D. No limit"
-    ],
-    "answer": "A",
-    "ref": "Port Klang Marine Handbook §1.8: all vessels shall navigate at a safe speed and in no case exceed 12 knots."
-   },
-   {
-    "q": "Per the Port Klang Marine Handbook, what is the speed limit for vessels navigating within 300 metres of wharves or mooring structures?",
-    "choices": [
-     "A. 12 knots",
-     "B. 8 knots",
-     "C. 5 knots",
-     "D. 10 knots"
-    ],
-    "answer": "B",
-    "ref": "Port Klang Marine Handbook §1.8: within 300 m of wharves/mooring structures — not exceeding 8 knots."
-   },
-   {
-    "q": "Per the Port Klang Marine Handbook, the minimum under-keel clearance (UKC) for a vessel with LOA exceeding 200 metres and/or draft exceeding 10 metres in Port Klang waters is:",
-    "choices": [
-     "A. 1.0 metre",
-     "B. 1.5 metres",
-     "C. 0.5 metre",
-     "D. 2.0 metres"
-    ],
-    "answer": "B",
-    "ref": "Port Klang Marine Handbook §1.7: UKC minimum 1.5 m for vessels LOA >200 m and/or draft >10 m; 1.0 m for smaller vessels."
-   },
-   {
-    "q": "Per the Port Klang Marine Handbook, is pilotage compulsory in Port Klang?",
-    "choices": [
-     "A. Voluntary for all vessels",
-     "B. Compulsory — Port Klang is declared a Compulsory Pilotage District",
-     "C. Only for tankers",
-     "D. Only for vessels over 100,000 GT"
-    ],
-    "answer": "B",
-    "ref": "Port Klang Marine Handbook §2.1: 'Port Klang is declared a Compulsory Pilotage District' — all vessels entering, leaving, or navigating within limits must engage a licensed pilot."
-   },
-   {
-    "q": "Per the Port Klang Marine Handbook, where is the Quarantine Anchorage position located?",
-    "choices": [
-     "A. Deep Water Point South between Latitudes 03°02.0'N and 03°03.0'N",
-     "B. Off Buas Buas Buoy",
-     "C. North of buoy 14",
-     "D. Inside the inner harbour"
-    ],
-    "answer": "A",
-    "ref": "Port Klang Marine Handbook §1.4: Quarantine Anchorage at Deep Water Point South between 03°02.0'N and 03°03.0'N."
-   },
-   {
-    "q": "Per the Port Klang Navigation Safety Guidelines, which VHF channel is used for communications between ships and pilots in the pilotage district?",
-    "choices": [
-     "A. VHF Channel 12",
-     "B. VHF Channel 14",
-     "C. VHF Channel 62",
-     "D. VHF Channel 16"
-    ],
-    "answer": "A",
-    "ref": "Port Klang Nav Safety Guidelines §1(iii): VHF Ch12 for all communications between ships and pilots; pilots maintain Ch12 listening watch at all times."
-   },
-   {
-    "q": "Per the Port Klang Navigation Safety Guidelines, in the South Channel, when two vessels meeting both exceed which criteria does the inbound vessel wait at the Pilot Boarding Ground?",
-    "choices": [
-     "A. Length exceeding 260 m or draft exceeding 12 m",
-     "B. Length exceeding 150 m",
-     "C. Draft exceeding 8 m",
-     "D. LOA under 100 m"
-    ],
-    "answer": "A",
-    "ref": "Port Klang Nav Safety Guidelines §2(i) South Channel: inbound waits at PBG when meeting a vessel of length >260 m or draft >12 m."
-   },
-   {
-    "q": "Per the Port Klang Navigation Safety Guidelines, in the North Channel, which vessel has unimpeded passage when both inbound and outbound vessels exceed 150 m LOA?",
-    "choices": [
-     "A. The inbound vessel",
-     "B. The outbound vessel",
-     "C. The larger vessel",
-     "D. The vessel bound for Westport"
-    ],
-    "answer": "B",
-    "ref": "Port Klang Nav Safety Guidelines §2(ii) North Channel: when both inbound and outbound exceed 150 m LOA, the outbound vessel has unimpeded passage."
-   },
-   {
-    "q": "Per the Port Klang Navigation Safety Guidelines, when two vessels bound for different terminals arrive simultaneously at the Pilot Boarding Ground, which proceeds first?",
-    "choices": [
-     "A. The vessel bound for Northport (ahead of Westport)",
-     "B. The vessel bound for Westport (ahead of Northport)",
-     "C. The larger vessel",
-     "D. The outbound vessel"
-    ],
-    "answer": "A",
-    "ref": "Port Klang Nav Safety Guidelines §2(iv): the vessel bound for Northport proceeds ahead of the Westport-bound vessel to embark the pilot."
-   },
-   {
-    "q": "The Port Klang 'Fallback Procedures for Systems Breakdown' are designed to maintain which function when primary systems fail?",
-    "choices": [
-     "A. Cargo invoicing only",
-     "B. Essential port operations (VTS, communications, EDI, gate systems) through manual/alternative procedures",
-     "C. Crew payroll",
-     "D. Marketing activities"
-    ],
-    "answer": "B",
-    "ref": "PKA Fallback Procedures: maintain essential operations — VTS, communications, EDI/document exchange, gate operations — via alternative/manual procedures during systems breakdown."
-   }
-  ],
-  "emergency_procedures": [
-   {
-    "q": "In GMDSS, what is the frequency for Digital Selective Calling (DSC) distress alerts on VHF?",
-    "choices": [
-     "A. Channel 16 (156.8 MHz)",
-     "B. Channel 70 (156.525 MHz)",
-     "C. Channel 9",
-     "D. 2182 kHz"
-    ],
-    "answer": "B",
-    "ref": "GMDSS VHF DSC distress alerts are transmitted on Channel 70 (156.525 MHz). Voice follow-up on Channel 16."
-   },
-   {
-    "q": "What is the first action when a person falls overboard?",
-    "choices": [
-     "A. Jump in to rescue",
-     "B. Throw a lifebuoy, sound alarm, mark position with MOB button, assign a lookout",
-     "C. Stop engines immediately",
-     "D. Call the coastguard first"
-    ],
-    "answer": "B",
-    "ref": "Standard MOB procedure: throw lifebuoy, sound the alarm, mark GPS position, assign lookout, manoeuvre using Williamson turn."
-   },
-   {
-    "q": "What does EPIRB stand for and what is its function?",
-    "choices": [
-     "A. Emergency Position Indicating Radio Beacon — transmits distress position to satellites",
-     "B. Emergency Propulsion and Idle Rescue Boat",
-     "C. Electronic Pilot Information Radio Beacon",
-     "D. Emergency Platform Inflatable Rescue Boat"
-    ],
-    "answer": "A",
-    "ref": "EPIRB: 406 MHz beacon that transmits vessel identity and position to COSPAS-SARSAT satellites for search and rescue."
-   },
-   {
-    "q": "What is the primary fire-fighting medium for machinery space fires?",
-    "choices": [
-     "A. Water spray",
-     "B. Foam",
-     "C. Fixed CO2 or total flooding gas system",
-     "D. Sand buckets"
-    ],
-    "answer": "C",
-    "ref": "Fixed CO2 or clean agent total flooding systems are primary for engine room fires; water is secondary due to electrical hazards."
-   },
-   {
-    "q": "What does 'MAYDAY' signify in radio communication?",
-    "choices": [
-     "A. Request for medical assistance",
-     "B. Distress — imminent danger to life or vessel",
-     "C. Urgency — safety of vessel",
-     "D. Routine communication"
-    ],
-    "answer": "B",
-    "ref": "MAYDAY = distress (grave and imminent danger, immediate assistance required). PAN-PAN = urgency. SÉCURITÉ = safety."
-   },
-   {
-    "q": "A DSC distress alert on VHF Channel 70 is acknowledged by a coast station. The vessel should then shift to which channel for subsequent distress traffic?",
-    "choices": [
-     "A. VHF Channel 16",
-     "B. VHF Channel 13",
-     "C. VHF Channel 22A",
-     "D. VHF Channel 06"
-    ],
-    "answer": "A",
-    "ref": "ITU Radio Regulations / GMDSS: VHF DSC distress alerts are sent on Ch 70; subsequent distress traffic moves to Ch 16."
-   },
-   {
-    "q": "The 406 MHz EPIRB transmits its distress signal to:",
-    "choices": [
-     "A. Nearby ships only",
-     "B. COSPAS-SARSAT satellites for position determination and routing to RCC",
-     "C. The nearest port authority directly",
-     "D. INMARSAT only"
-    ],
-    "answer": "B",
-    "ref": "COSPAS-SARSAT 406 MHz EPIRBs are satellite-detected; the system computes position (with GPS if GNSS-equipped) and routes alerts to Mission Control Centres and RCCs."
-   },
-   {
-    "q": "The SART (Search and Rescue Radar Transponder), when interrogated by a 3-cm (X-band) radar, displays on the rescuer's screen as:",
-    "choices": [
-     "A. A series of 12 equally spaced dots extending outward from the SART's position",
-     "B. A solid circle",
-     "C. A cross",
-     "D. Nothing — SARTs are GPS-only"
-    ],
-    "answer": "A",
-    "ref": "SART responds to X-band radar with 12 blips in a radial line (approx 8 nm range); the first blip marks the SART position; only 3-cm radar triggers it."
-   },
-   {
-    "q": "In a 'Man Overboard' situation under the Williamson Turn, the helm order sequence is:",
-    "choices": [
-     "A. Hard over to the side of the casualty, then hard over opposite when 60 degrees from original course",
-     "B. Immediate full astern",
-     "C. Circle to port twice",
-     "D. Maintain course and launch lifeboat"
-    ],
-    "answer": "A",
-    "ref": "Williamson Turn: put rudder hard over toward the casualty's side; after deviating 60° from original course, reverse to hard over the opposite way; brings the vessel on reciprocal course near the MOB position."
-   },
-   {
-    "q": "Total flooding of a machinery space with CO2 requires, before release:",
-    "choices": [
-     "A. Verification that the space is evacuated, alarms sounded, ventilation stopped, dampers closed, and engines stopped",
-     "B. Only the Chief Engineer's presence",
-     "C. Opening all doors",
-     "D. Running ventilation at maximum"
-    ],
-    "answer": "A",
-    "ref": "SOLAS II-2/Ch. FSS Code Ch. 5 and SMS procedures: pre-release checks include evacuation confirmation, alarm, ventilation/dampers closed, machinery stopped, and a timed delay before release."
-   },
-   {
-    "q": "A fire in the accommodation is being fought with a water hose while an adjacent space contains electrical panels. Before directing water near the panels, the attack team must:",
-    "choices": [
-     "A. Isolate electrical power to the affected panels to prevent electrocution",
-     "B. Use seawater directly",
-     "C. Continue unrestricted",
-     "D. Open all doors for ventilation"
-    ],
-    "answer": "A",
-    "ref": "Standard fire-fighting safety: de-energize electrical equipment before applying water; CO2/dry powder preferred on live electrical fires."
-   },
-   {
-    "q": "The 'MAYDAY' spoken distress call may only be used when:",
-    "choices": [
-     "A. A vessel or person is in grave and imminent danger and requires immediate assistance",
-     "B. There is any doubt about position",
-     "C. Requesting a pilot",
-     "D. Testing equipment"
-    ],
-    "answer": "A",
-    "ref": "ITU Radio Regulations Art. 44 / GMDSS: MAYDAY signals indicate grave and imminent danger requiring immediate assistance; priority over all other traffic."
-   },
-   {
-    "q": "A 'PAN PAN' urgency call differs from MAYDAY in that it denotes:",
-    "choices": [
-     "A. A very urgent message concerning the safety of a ship or person, but no grave and imminent danger",
-     "B. A distress situation",
-     "C. A routine port call",
-     "D. A safety broadcast only"
-    ],
-    "answer": "A",
-    "ref": "ITU RR Art. 44: URGENCY signal PAN PAN (x3) for urgent safety messages not constituting distress; SAFETY signal SÉCURITÉ for navigational/meteorological warnings."
-   },
-   {
-    "q": "Under SOLAS III/29, a lifeboat's launching arrangements must be such that the boat can be launched:",
-    "choices": [
-     "A. Within 5 minutes of the abandon ship signal with the ship underway making 5 knots in calm water",
-     "B. Only in port",
-     "C. Only after 20 minutes",
-     "D. Only at zero speed"
-    ],
-    "answer": "A",
-    "ref": "SOLAS III/29.2.3 + LSA Code 4.4.7: launch within 5 min of the signal; for tankers of certain sizes, launching at 5 knots ahead speed is required."
-   },
-   {
-    "q": "The immersion suit's primary function in an abandon-ship scenario is:",
-    "choices": [
-     "A. To provide thermal protection and buoyancy, reducing cold-water immersion risk",
-     "B. To signal aircraft",
-     "C. To store provisions",
-     "D. To inflate the lifeboat"
-    ],
-    "answer": "A",
-    "ref": "LSA Code 4.3: immersion suits provide inherent buoyancy and thermal insulation; donning within 2 minutes; protection against cold water."
-   },
-   {
-    "q": "A fire in a cargo hold containing Class 4.3 dangerous goods (dangerous when wet) is being fought. The correct agent is:",
-    "choices": [
-     "A. Water in large quantities (flooding)",
-     "B. CO2",
-     "C. Foam",
-     "D. Dry sand only"
-    ],
-    "answer": "A",
-    "ref": "IMDG Code EmS: Class 4.3 reacts with water producing flammable gas — but standard EmS guidance for most 4.3 cargoes is copious water flooding to cool and smother, not CO2/foam which are ineffective; specific EmS F-A, S-(see DG card)."
-   },
-   {
-    "q": "The On-Scene Coordinator (OSC) for a multi-ship SAR operation is normally designated by:",
-    "choices": [
-     "A. The Rescue Coordination Centre (RCC) or by agreement among the vessels",
-     "B. The nearest vessel automatically",
-     "C. The shipping company",
-     "D. IMO"
-    ],
-    "answer": "A",
-    "ref": "IAMSAR Manual Vol. II: the SMC (at the RCC) designates the OSC, or the OSC may be agreed by consensus among vessels on scene."
-   },
-   {
-    "q": "During a fire drill, a scenario requires boundary cooling of an adjacent compartment containing cargo. Boundary cooling is achieved by:",
-    "choices": [
-     "A. Continuously spraying water on the bulkhead/deck adjacent to the fire to prevent heat spread/ignition",
-     "B. Closing all dampers",
-     "C. Flooding the compartment",
-     "D. Ventilating the space"
-    ],
-    "answer": "A",
-    "ref": "Standard boundary cooling practice: continuous water spray on adjacent boundaries to prevent heat transfer and auto-ignition of neighbouring cargo/spaces."
-   },
-   {
-    "q": "Following a collision, the immediate priority sequence under standard damage-control doctrine is:",
-    "choices": [
-     "A. Preserve life → contain/limit damage (stability, flooding) → then property",
-     "B. Save cargo → notify owners → then crew",
-     "C. Check engines → then crew → then hull",
-     "D. Send DSC → then assess"
-    ],
-    "answer": "A",
-    "ref": "Damage control doctrine (SOLAS II-1/SMS): life safety first; then damage stabilization (flooding/fire); then property/environment — consistent with ISM emergency preparedness."
-   },
-   {
-    "q": "A crew member falls overboard at night. Besides the Williamson Turn and MOB mark on GPS, the immediate first actions include:",
-    "choices": [
-     "A. Sounding the alarm, throwing a lifebuoy with light/smoke float, posting extra lookouts, and illuminating with searchlight",
-     "B. Stopping engines immediately and drifting",
-     "C. Waiting for daylight",
-     "D. Sending a PAN PAN only"
-    ],
-    "answer": "A",
-    "ref": "Standard MOB procedure: alarm; lifebuoy with light/smoke marker; extra lookout; searchlight illumination; keep casualty in sight; report to Master; then the chosen turn (Williamson/Andersen/Scharnow per ship's SMS)."
-   }
-  ],
-  "maritime_malay": [
-   {
-    "q": "Apakah maksud 'Kawasan Perairan Sekatan' dalam notis pelayaran?",
-    "choices": [
-     "A. Kawasan peranginan",
-     "B. Kawasan dilarang masuk tanpa kebenaran",
-     "C. Kawasan memancing",
-     "D. Kawasan berenang"
-    ],
-    "answer": "B",
-    "ref": "'Kawasan Perairan Sekatan' = restricted waters — vessels prohibited from entering without authorization."
-   },
-   {
-    "q": "Apakah fungsi 'Alat Bantuan Navigasi' (AtoN)?",
-    "choices": [
-     "A. Alat untuk memasak di kapal",
-     "B. Alat bantuan navigasi seperti pelampung, rumah api, dan beacon",
-     "C. Alat komunikasi",
-     "D. Alat keselamatan kebakaran"
-    ],
-    "answer": "B",
-    "ref": "AtoN (Aids to Navigation): pelampung (buoys), rumah api (lighthouses), beacon — membantu pelayaran selamat."
-   },
-   {
-    "q": "Apakah maksud 'Kedalaman Air' (Charted Depth) pada carta?",
-    "choices": [
-     "A. Kedalaman purata",
-     "B. Kedalaman minimum di bawah datum carta (biasanya LAT)",
-     "C. Kedalaman semasa air pasang",
-     "D. Kedalaman semasa air surut"
-    ],
-    "answer": "B",
-    "ref": "Kedalaman carta diukur dari datum carta (biasanya Lowest Astronomical Tide) — minimum depth guaranteed."
-   },
-   {
-    "q": "Apakah itu 'Jurang Bawah Lunas' (Underkeel Clearance)?",
-    "choices": [
-     "A. Jarak dari permukaan laut ke dek",
-     "B. Jarak dari lunas kapal ke dasar laut",
-     "C. Lebar kapal",
-     "D. Panjang kapal"
-    ],
-    "answer": "B",
-    "ref": "Underkeel clearance = jarak menegak antara titik terendah lunas kapal dengan dasar laut."
-   },
-   {
-    "q": "Apakah bahasa yang digunakan dalam Notis Pelayar (NTM) di Malaysia?",
-    "choices": [
-     "A. Bahasa Inggeris sahaja",
-     "B. Bahasa Melayu sahaja",
-     "C. Dwibahasa (Bahasa Melayu dan Bahasa Inggeris)",
-     "D. Bahasa Cina"
-    ],
-    "answer": "C",
-    "ref": "NTM Malaysia diterbitkan dalam dwibahasa — tajuk dan maklumat penting dalam kedua-dua bahasa."
-   },
-   {
-    "q": "Apakah maksud 'Laluan Kapal' pada peta pelayaran (chart)?",
-    "choices": [
-     "A. Laluan feri penumpang sahaja",
-     "B. Traffic lane — lorong laluan khusus dalam Traffic Separation Scheme",
-     "C. Laluan ikan",
-     "D. Sempadan negara"
-    ],
-    "answer": "B",
-    "ref": "'Laluan Kapal' merujuk traffic lane dalam TSS — koridor pergerakan satu arah yang ditetapkan IMO."
-   },
-   {
-    "q": "Apakah maksud 'Pusat Kawalan Trafik Kapal' (VTS)?",
-    "choices": [
-     "A. Pusat membeli tiket kapal",
-     "B. Vessel Traffic Service — perkhidmatan memantau dan mengatur pergerakan kapal serta memberi maklumat keselamatan",
-     "C. Klinik kapal",
-     "D. Pejabat kastam"
-    ],
-    "answer": "B",
-    "ref": "VTS = Vessel Traffic Service: perkhidmatan interaksi dengan trafik kapal untuk memantau, mengatur, dan menasihati keselamatan pelayaran."
-   },
-   {
-    "q": "Apakah yang dimaksudkan dengan 'Tebing Pelabuhan' (wharf/quay)?",
-    "choices": [
-     "A. Struktur tepi laut untuk berlabuh dan memunggah muatan",
-     "B. Pulau kecil",
-     "C. Tiang lampu",
-     "D. Alat pancing"
-    ],
-    "answer": "A",
-    "ref": "'Wharf/quay' = struktur bersambung ke darat sepanjang tepi air, kapal berlabuh di sebelahnya untuk memunggah/memuat."
-   },
-   {
-    "q": "Dalam notis pelayaran JLM, frasa 'kapal dilarang berlabuh' menunjukkan kawasan tersebut ialah:",
-    "choices": [
-     "A. Kawasan berlabuh dibenarkan",
-     "B. No anchoring area — kawasan larangan berlabuh (biasanya kerana kabel dasar laut atau paip)",
-     "C. Tempat memancing",
-     "D. Kawasan mandi"
-    ],
-    "answer": "B",
-    "ref": "'Dilarang berlabuh' = no anchoring — biasanya kerana kabel komunikasi/paip bawah dasar laut yang boleh rosak oleh anchor."
-   },
-   {
-    "q": "Apakah 'Kawalan Mula Pelayaran' yang dikeluarkan sebelum kapal bertolak dari pelabuhan?",
-    "choices": [
-     "A. Port clearance — kebenaran rasmi bertolak selepas semua formaliti selesai",
-     "B. Lesen memandu",
-     "C. Tiket penumpang",
-     "D. Sijil pendaftaran kapal"
-    ],
-    "answer": "A",
-    "ref": "Port clearance dikeluarkan selepas Kastam, Imigresen, Kesihatan, dan Pihak Berkuasa Pelabuhan menyelesaikan formaliti — kebenaran bertolak."
-   },
-   {
-    "q": "Apakah maksud 'Air Pasang Purnama' (spring tide)?",
-    "choices": [
-     "A. Pasang biasa",
-     "B. Pasang tertinggi dan surut terendah berlaku semasa bulan purnama/bulan baru — julat pasang surut terbesar",
-     "C. Air surut sahaja",
-     "D. Ombak besar"
-    ],
-    "answer": "B",
-    "ref": "Spring tide: julat pasang surut terbesar, berlaku selepas bulan purnama/bulan baru apabila tarikan matahari-bulan sejajar."
-   },
-   {
-    "q": "Apakah maksud 'Sempadan Perairan' dalam konteks notis pelayaran?",
-    "choices": [
-     "A. Sempadan bandar",
-     "B. Maritime boundary — sempadan perairan wilayah/negara yang menentukan bidang kuasa",
-     "C. Sempadan hutan",
-     "D. Garisan pantai sahaja"
-    ],
-    "answer": "B",
-    "ref": "'Sempadan Perairan' = maritime boundary sempadan bidang kuasa perairan wilayah/negara."
-   },
-   {
-    "q": "Frasa 'Dilaporkan oleh kapal lain' (reported by another vessel) dalam NTM menunjukkan maklumat tersebut:",
-    "choices": [
-     "A. Telah disahkan oleh Jabatan Laut",
-     "B. Belum disahkan — kedudukan mungkin tidak tepat dan bahaya mungkin lebih besar",
-     "C. Adalah palsu",
-     "D. Adalah untuk kapal perang sahaja"
-    ],
-    "answer": "B",
-    "ref": "'Reported' (unverified) information — kedudukan tidak disahkan oleh tinjauan rasmi; mariner perlu beri clearances lebih luas."
-   },
-   {
-    "q": "Apakah maksud 'Kedalaman Carta 21m' di bawah garisan dasar laut yang ditanda?",
-    "choices": [
-     "A. Kedalaman di permukaan semasa",
-     "B. Kedalaman minimum diukur dari datum carta (biasanya LAT) di titik tersebut",
-     "C. Kedalaman maksimum",
-     "D. Ketinggian ombak"
-    ],
-    "answer": "B",
-    "ref": "Soundings diukur dari datum carta (Lowest Astronomical Tide) — 21m ialah kedalaman yang dijamin pada datum tersebut."
-   },
-   {
-    "q": "Apakah maksud 'Kapal Tunda' (tugboat)?",
-    "choices": [
-     "A. Kapal penumpang",
-     "B. Kapal yang membantu menggerakkan/memanuver kapal besar dalam pelabuhan",
-     "C. Kapal tankers",
-     "D. Kapal perikanan"
-    ],
-    "answer": "B",
-    "ref": "Tugboat: kapal khusus untuk menunda/mendorong kapal besar semasa manuver pelabuhan, dock, dan laluan sempit."
-   },
-   {
-    "q": "Frasa 'Berhati-hati — Kerja Penorekan' (dredging operations) dalam NTM bermaksud:",
-    "choices": [
-     "A. Operasi memburu ikan",
-     "B. Kerja pengerukan dasar laut — kapal perlu laluan jauh dari kapal kerja dan risiko",
-     "C. Pembersihan pantai",
-     "D. Latihan ketenteraan"
-    ],
-    "answer": "B",
-    "ref": "Dredging = pengerukan dasar laut (biasanya untuk memperdalamkan laluan); kapal kerja menunjukkan isyarat RAM dan mariner perlu laluan selamat."
-   },
-   {
-    "q": "Apakah 'Lampu Isyarat Bahaya' pada boya menunjukkan?",
-    "choices": [
-     "A. Bahaya di kawasan sekitar boya — kapal perlu elak dan rujuk carta/notis",
-     "B. Tempat selamat berlabuh",
-     "C. Arah utara",
-     "D. Zon memancing"
-    ],
-    "answer": "A",
-    "ref": "Boya bahaya (isophase/occulting light pada isolated danger mark) menandakan bahaya setempat — kapal perlu beri jarak selamat."
-   },
-   {
-    "q": "Dalam Bahasa Malaysia, 'Ketua Pegawai Keselamatan Kapal' merujuk kepada:",
-    "choices": [
-     "A. Ship Security Officer (SSO) di bawah kod ISPS",
-     "B. Jurutera ketua",
-     "C. Nakhoda sahaja",
-     "D. Ketua krew dapur"
-    ],
-    "answer": "A",
-    "ref": "SSO (Ship Security Officer) bertanggungjawab atas pelaksanaan dan penyelenggaraan Pelan Keselamatan Kapal di bawah kod ISPS."
-   },
-   {
-    "q": "Apakah maksud 'Berlabuh di Kawasan Berlabuh' (anchorage)?",
-    "choices": [
-     "A. Berlabuh di mana-mana sahaja",
-     "B. Berlabuh di kawasan yang ditetapkan khas untuk kapal berlabuh selamat",
-     "C. Berlabuh di tengah laluan kapal",
-     "D. Berlabuh tanpa jangkar"
-    ],
-    "answer": "B",
-    "ref": "Anchorage = kawasan yang ditetapkan dalam carta/notis untuk kapal berlabuh — selamat dari laluan kapal, dalam air, dan dengan dasar sesuai."
-   }
-  ]
- },
- "OPEN_ENDED": [
-  {
-   "q": "Explain the purpose of a Notice to Mariners and what actions a mariner should take when one is issued.",
-   "keywords": [
-    "navigational",
-    "changes",
-    "hazards",
-    "charts",
-    "aids",
-    "safety",
-    "report",
-    "amendments",
-    "notice"
-   ]
+  "counts": {
+    "navigation_rules": 30,
+    "solas_marpol": 20,
+    "ntm_interpretation": 20,
+    "port_operations": 39,
+    "emergency_procedures": 20,
+    "maritime_malay": 19
   },
-  {
-   "q": "What are the key requirements of the ISM Code for shipping companies?",
-   "keywords": [
-    "safety",
-    "management",
-    "system",
-    "SMS",
-    "procedures",
-    "audit",
-    "emergency",
-    "documented",
-    "company"
-   ]
-  },
-  {
-   "q": "Describe the procedure for a man overboard situation.",
-   "keywords": [
-    "lifebuoy",
-    "alarm",
-    "position",
-    "GPS",
-    "lookout",
-    "turn",
-    "Williamson",
-    "rescue",
-    "mark"
-   ]
-  },
-  {
-   "q": "What is the difference between draft and freeboard?",
-   "keywords": [
-    "draft",
-    "keel",
-    "waterline",
-    "freeboard",
-    "deck",
-    "depth",
-    "buoyancy",
-    "loaded"
-   ]
-  },
-  {
-   "q": "Apakah prosedur kecemasan apabila kapal mengalami kebakaran di ruang enjin?",
-   "keywords": [
-    "kebakaran",
-    "CO2",
-    "pemadam",
-    "evakuasi",
-    "alarm",
-    "keselamatan",
-    "muat",
-    "enjin",
-    "sistem"
-   ]
-  },
-  {
-   "q": "Terangkan fungsi Pihak Berkuasa Pelabuhan Klang (PKA).",
-   "keywords": [
-    "menguruskan",
-    "operasi",
-    "pelabuhan",
-    "keselamatan",
-    "navigasi",
-    "pihak",
-    "berkuasa",
-    "carta",
-    "regulasi"
-   ]
-  },
-  {
-   "q": "Describe the immediate actions a watchkeeping officer must take upon receiving a Navigation Warning (Navtex) about an unlit buoy on the vessel's planned track.",
-   "keywords": [
-    "buoy",
-    "unlit",
-    "chart",
-    "correction",
-    "passage",
-    "plan",
-    "position",
-    "radar",
-    "vigilance",
-    "alternate",
-    "notify",
-    "master"
-   ]
-  },
-  {
-   "q": "Explain the difference between a Permanent Notice to Mariners and a Temporary/Preliminary Notice, and how each is handled in a ship's chart correction system.",
-   "keywords": [
-    "permanent",
-    "temporary",
-    "preliminary",
-    "correction",
-    "chart",
-    "block",
-    "cut",
-    "paste",
-    "T&P",
-    "list",
-    "log",
-    "edition"
-   ]
-  },
-  {
-   "q": "A ship is approaching Port Klang. Describe the VTS reporting procedure, the key information to be included in reports, and the purpose of the precautionary area near the approach.",
-   "keywords": [
-    "VTS",
-    "report",
-    "sailing",
-    "position",
-    "ETA",
-    "precautionary",
-    "area",
-    "traffic",
-    "channel",
-    "Klang",
-    "pilot"
-   ]
-  },
-  {
-   "q": "Outline the key differences between Port State Control (PSC) inspection and Flag State survey, and what documents a PSC officer would typically examine on arrival.",
-   "keywords": [
-    "PSC",
-    "flag",
-    "survey",
-    "certificate",
-    "DOC",
-    "SMC",
-    "inspection",
-    "deficiency",
-    "detention",
-    "Tokyo",
-    "MOU",
-    "records"
-   ]
-  },
-  {
-   "q": "Describe the correct use of the GMDSS DSC distress alert on VHF, including the information it conveys and the procedure after the alert is acknowledged.",
-   "keywords": [
-    "DSC",
-    "VHF",
-    "channel 70",
-    "MMSI",
-    "position",
-    "nature",
-    "distress",
-    "acknowledge",
-    "channel 16",
-    "traffic"
-   ]
-  },
-  {
-   "q": "Terangkan prosedur pelaporan dan tindakan yang perlu diambil oleh nakhoda apabila menemui puing kapal (wreck) yang belum dicarta di perairan Malaysia.",
-   "keywords": [
-    "puing",
-    "wreck",
-    "lapor",
-    "kedudukan",
-    "jabatan",
-    "laut",
-    "notis",
-    "bahaya",
-    "carta",
-    "elak",
-    "keselamatan"
-   ]
-  },
-  {
-   "q": "Explain the concept of 'boundary cooling' during a shipboard fire and why it is critical when the fire is adjacent to a cargo hold containing dangerous goods.",
-   "keywords": [
-    "boundary",
-    "cooling",
-    "water",
-    "spray",
-    "bulkhead",
-    "heat",
-    "spread",
-    "dangerous",
-    "goods",
-    "ignition",
-    "temperature"
-   ]
-  },
-  {
-   "q": "What is the role of the Ship Security Officer (SSO) during a security incident at a port facility, and how does the SSO coordinate with the Port Facility Security Officer (PFSO)?",
-   "keywords": [
-    "SSO",
-    "PFSO",
-    "security",
-    "incident",
-    "ISPS",
-    "plan",
-    "coordination",
-    "communication",
-    "authority",
-    "notification",
-    "assessment"
-   ]
-  },
-  {
-   "q": "Terangkan kepentingan 'Underkeel Clearance' semasa kapal memasuki pelabuhan, dan faktor-faktor yang perlu dipertimbangkan oleh nakhoda sebelum memasuki laluan yang cetek.",
-   "keywords": [
-    "underkeel",
-    "clearance",
-    "kedalaman",
-    "draft",
-    "lunas",
-    "pasang",
-    "surut",
-    "tide",
-    "squating",
-    "keselamatan",
-    "carta",
-    "datum"
-   ]
-  }
- ],
- "counts": {
-  "navigation_rules": 30,
-  "solas_marpol": 20,
-  "ntm_interpretation": 20,
-  "port_operations": 39,
-  "emergency_procedures": 20,
-  "maritime_malay": 19
- },
- "total_mc": 148,
- "total_open": 15
+  "total_mc": 148,
+  "total_open": 15
 }
