@@ -1,7 +1,7 @@
 {
-  "benchmark": "/home/mahdi/Documents/pipeline/review_v2/benchmark/maritime_bench_v1.json",
+  "benchmark": "<benchmark>/maritime_bench_v1.json",
   "benchmark_sha256": "ad69f7755d3d5ff50617f8d551be5412f44ff29d8fc97aff82667cc667e18254",
-  "corpus": "/home/mahdi/Documents/pipeline/cleaned_texts",
+  "corpus": "<corpus>",
   "ngram": 9,
   "text_mode": "qa",
   "n_features": 134217728,
@@ -321,439 +321,439 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
           "shared_ngrams": 8,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 5,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2026-5-Polesie-Verity-ReportAndAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2026-5-Polesie-Verity-ReportAndAnnexes.txt.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_003.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_003.jsonl.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 2,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_2026-5-Polesie-Verity-ReportAndAnnexes-2.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_2026-5-Polesie-Verity-ReportAndAnnexes-2.pdf.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/PaulaC_DaryaGayatri.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/PaulaC_DaryaGayatri.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/PrincesClubReport.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/PrincesClubReport.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/celtit-and-sand-heron.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/celtit-and-sand-heron.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_PaulaC_DaryaGayatri.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_PaulaC_DaryaGayatri.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_PrincesClubReport.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_PrincesClubReport.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_celtit-and-sand-heron.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_celtit-and-sand-heron.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/gcaptain/coast-guard-concludes-investigation-into-fatal-collision-between-uscg-cutter-and-fishing-vessel-off-puerto-rico.txt.txt",
+          "document": "<corpus>/news/global/gcaptain/coast-guard-concludes-investigation-into-fatal-collision-between-uscg-cutter-and-fishing-vessel-off-puerto-rico.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2002-SD2-MAIBSafetyDigest.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2002-SD2-MAIBSafetyDigest.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2008-SD1-MAIBSafetyDigest.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2008-SD1-MAIBSafetyDigest.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2023-5-ScotCarrier-KarinHoej-ReportAndAnnex.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2023-5-ScotCarrier-KarinHoej-ReportAndAnnex.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2026-4-Apache-Serinah-ReportAndAnnex.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2026-4-Apache-Serinah-ReportAndAnnex.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/CMACGMFlorida_Report.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/CMACGMFlorida_Report.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Carrie_Kate_Annex.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Carrie_Kate_Annex.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Cepheus_J-Ileksa.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Cepheus_J-Ileksa.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/CoscoHongKongReport.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/CoscoHongKongReport.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/CostaAtlanticaGrandNeptuneAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/CostaAtlanticaGrandNeptuneAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Daroja-ErinWood_CombinedAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Daroja-ErinWood_CombinedAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/EtoilesdesOndesAlamPintarAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/EtoilesdesOndesAlamPintarAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/HomelandScottishVikingAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/HomelandScottishVikingAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Hyundai_Sky_Hope.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Hyundai_Sky_Hope.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/MaerskDoverAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/MaerskDoverAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/MaerskKendalReport.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/MaerskKendalReport.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Maersk_Kendall_Annexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Maersk_Kendall_Annexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/ScotIslesWadiHalfaAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/ScotIslesWadiHalfaAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Seagate_CombinedAnnexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Seagate_CombinedAnnexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Seagate_ReportWeb.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Seagate_ReportWeb.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/StenaFeronia_Annexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/StenaFeronia_Annexes.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/ash-and-dutch-aquamarine.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/ash-and-dutch-aquamarine.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/bro__axel.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/bro__axel.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/elm_and_suzanne.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/elm_and_suzanne.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/lady-hamilton.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/lady-hamilton.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/union_arbo.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/union_arbo.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/safety4sea/cm-safe-navigation-at-sea-bad-vs-best-practices.txt.txt",
+          "document": "<corpus>/news/global/safety4sea/cm-safe-navigation-at-sea-bad-vs-best-practices.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_005.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_005.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_006.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_006.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_EtoilesdesOndesAlamPintarAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_EtoilesdesOndesAlamPintarAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_2002-SD2-MAIBSafetyDigest.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_2002-SD2-MAIBSafetyDigest.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_2023-5-ScotCarrier-KarinHoej-ReportAndAnnex.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_2023-5-ScotCarrier-KarinHoej-ReportAndAnnex.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_2026-4-Apache-Serinah-ReportAndAnnex.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_2026-4-Apache-Serinah-ReportAndAnnex.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_CMACGMFlorida_Report.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_CMACGMFlorida_Report.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Carrie_Kate_Annex.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Carrie_Kate_Annex.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Cepheus_J-Ileksa.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Cepheus_J-Ileksa.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_CoscoHongKongReport.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_CoscoHongKongReport.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_CostaAtlanticaGrandNeptuneAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_CostaAtlanticaGrandNeptuneAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_HomelandScottishVikingAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_HomelandScottishVikingAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Hyundai_Sky_Hope.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Hyundai_Sky_Hope.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_MaerskKendalReport.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_MaerskKendalReport.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Maersk_Kendall_Annexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Maersk_Kendall_Annexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_ScotIslesWadiHalfaAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_ScotIslesWadiHalfaAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Seagate_ReportWeb.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Seagate_ReportWeb.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_ash-and-dutch-aquamarine.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_ash-and-dutch-aquamarine.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_bro__axel.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_bro__axel.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-bw-seine-sol-2315-2023.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-bw-seine-sol-2315-2023.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-chemroad-mega-sinica-graeca.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-chemroad-mega-sinica-graeca.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-kartika-segara-jbb-de-rong-19.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-kartika-segara-jbb-de-rong-19.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_elm_and_suzanne.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_elm_and_suzanne.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_lady-hamilton.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_lady-hamilton.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_union_arbo.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_union_arbo.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_Daroja-ErinWood_CombinedAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_Daroja-ErinWood_CombinedAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_MaerskDoverAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_MaerskDoverAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_Seagate_CombinedAnnexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_Seagate_CombinedAnnexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_StenaFeronia_Annexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_StenaFeronia_Annexes.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_Witness statement - Tropic Breeze_Redacted-Rel.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_Witness statement - Tropic Breeze_Redacted-Rel.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_tabular_2007-SD3-MAIBSafetyDigest.pdf.txt",
+          "document": "<corpus>/pymupdf/global_tabular_2007-SD3-MAIBSafetyDigest.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_tabular_2008-SD1-MAIBSafetyDigest.pdf.txt",
+          "document": "<corpus>/pymupdf/global_tabular_2008-SD1-MAIBSafetyDigest.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "take early and substantial action to keep well clear"
@@ -802,121 +802,121 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 9,
           "hashed_shared_ngrams": 5,
           "example_ngram": "power driven vessel underway shall keep out of the"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
           "shared_ngrams": 8,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/AnnexestoMAIBInvReport_10_2015.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/AnnexestoMAIBInvReport_10_2015.txt.txt",
           "shared_ngrams": 5,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_AnnexestoMAIBInvReport_10_2015.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_AnnexestoMAIBInvReport_10_2015.pdf.txt",
           "shared_ngrams": 5,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 5,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_MAIBReport_Marchioness-Bowbelle-1989-Annexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_MAIBReport_Marchioness-Bowbelle-1989-Annexes.pdf.txt",
           "shared_ngrams": 5,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2026-4-Apache-Serinah-ReportAndAnnex.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2026-4-Apache-Serinah-ReportAndAnnex.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Reno_Ocean_Rose.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Reno_Ocean_Rose.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/elm_and_suzanne.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/elm_and_suzanne.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/euro-tideway-vrouw-grietje.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/euro-tideway-vrouw-grietje.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/lady-hamilton.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/lady-hamilton.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_2026-4-Apache-Serinah-ReportAndAnnex.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_2026-4-Apache-Serinah-ReportAndAnnex.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Reno_Ocean_Rose.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Reno_Ocean_Rose.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_elm_and_suzanne.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_elm_and_suzanne.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_euro-tideway-vrouw-grietje.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_euro-tideway-vrouw-grietje.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_lady-hamilton.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_lady-hamilton.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "a power driven vessel underway shall keep out of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_005.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_005.jsonl.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 3,
           "example_ngram": "power driven vessel underway shall keep out of the"
@@ -937,121 +937,121 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 7,
           "hashed_shared_ngrams": 3,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/AnnexestoMAIBInvReport_10_2015.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/AnnexestoMAIBInvReport_10_2015.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 3,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_AnnexestoMAIBInvReport_10_2015.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_AnnexestoMAIBInvReport_10_2015.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 3,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 3,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_MAIBReport_Marchioness-Bowbelle-1989-Annexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_MAIBReport_Marchioness-Bowbelle-1989-Annexes.pdf.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 3,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2026-4-Apache-Serinah-ReportAndAnnex.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2026-4-Apache-Serinah-ReportAndAnnex.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Reno_Ocean_Rose.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Reno_Ocean_Rose.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/elm_and_suzanne.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/elm_and_suzanne.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/euro-tideway-vrouw-grietje.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/euro-tideway-vrouw-grietje.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/lady-hamilton.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/lady-hamilton.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_005.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_005.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_2026-4-Apache-Serinah-ReportAndAnnex.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_2026-4-Apache-Serinah-ReportAndAnnex.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Reno_Ocean_Rose.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Reno_Ocean_Rose.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_elm_and_suzanne.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_elm_and_suzanne.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_euro-tideway-vrouw-grietje.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_euro-tideway-vrouw-grietje.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_lady-hamilton.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_lady-hamilton.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "vessel underway shall keep out of the way of"
@@ -1114,13 +1114,13 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "red on the port side and green on the"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_DCA22FM024 interview summary for Karen Koby mate_Redacted-Rel.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_DCA22FM024 interview summary for Karen Koby mate_Redacted-Rel.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "red on the port side and green on the"
@@ -1183,37 +1183,37 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/Carrie_Kate_Annex.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/Carrie_Kate_Annex.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "a power driven vessel of less than 12 metres"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/MAIBReport_Marchioness-Bowbelle-1989-Annexes.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/MAIBReport_Marchioness-Bowbelle-1989-Annexes.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "a power driven vessel of less than 12 metres"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_Carrie_Kate_Annex.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_Carrie_Kate_Annex.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "a power driven vessel of less than 12 metres"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_scanned_ocr_MAIBReport_Marchioness-Bowbelle-1989-Annexes.pdf.txt",
+          "document": "<corpus>/pymupdf/global_scanned_ocr_MAIBReport_Marchioness-Bowbelle-1989-Annexes.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "a power driven vessel of less than 12 metres"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 2,
           "example_ngram": "a power driven vessel of less than 12 metres"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "a power driven vessel of less than 12 metres"
@@ -1276,67 +1276,67 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/1997-SD2-MAIBSafetyDigest.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/1997-SD2-MAIBSafetyDigest.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2000-SDFishing-MAIBSafetyDigest.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2000-SDFishing-MAIBSafetyDigest.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/safety4sea/britannia-club-issues-loss-prevention-poster-nuc-signals.txt.txt",
+          "document": "<corpus>/news/global/safety4sea/britannia-club-issues-loss-prevention-poster-nuc-signals.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 2,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_2-Operations-Houston Pilots VHF Channel Guidelines-Master.PDF.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_2-Operations-Houston Pilots VHF Channel Guidelines-Master.PDF.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_1997-SD2-MAIBSafetyDigest.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_1997-SD2-MAIBSafetyDigest.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
@@ -1399,7 +1399,7 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "all round white light where it can best be"
@@ -1420,67 +1420,67 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_COLREGs.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_COLREGs.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/1997-SD2-MAIBSafetyDigest.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/1997-SD2-MAIBSafetyDigest.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/2000-SDFishing-MAIBSafetyDigest.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/2000-SDFishing-MAIBSafetyDigest.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/SExplorer_DDalsoe.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/safety4sea/britannia-club-issues-loss-prevention-poster-nuc-signals.txt.txt",
+          "document": "<corpus>/news/global/safety4sea/britannia-club-issues-loss-prevention-poster-nuc-signals.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 2,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_2-Operations-Houston Pilots VHF Channel Guidelines-Master.PDF.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_2-Operations-Houston Pilots VHF Channel Guidelines-Master.PDF.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_1997-SD2-MAIBSafetyDigest.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_1997-SD2-MAIBSafetyDigest.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SExplorer_DDalsoe.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_collision-alnic-mc-uss-john-s-mccain.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "two all round red lights in a vertical line"
@@ -1599,25 +1599,25 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/MAIBReport_BritishTrent-1993.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/MAIBReport_BritishTrent-1993.txt.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 3,
           "example_ngram": "one prolonged blast at intervals of not more than"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_MAIBReport_BritishTrent-1993.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_MAIBReport_BritishTrent-1993.pdf.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 3,
           "example_ngram": "one prolonged blast at intervals of not more than"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_002.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 4,
           "example_ngram": "blast at intervals of not more than two minutes"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_9 - VTS - Operations Specialist Volume 1 - NAVEDTRA - 2010-Master.PDF.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_9 - VTS - Operations Specialist Volume 1 - NAVEDTRA - 2010-Master.PDF.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "one prolonged blast at intervals of not more than"
@@ -1848,49 +1848,49 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/maib_publications/MAIBInvReport_9-2015.txt.txt",
+          "document": "<corpus>/news/global/maib_publications/MAIBInvReport_9-2015.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "be launched and manoeuvred in the water by its"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/safety4sea/alternative-methods-lifeboat-drills-mous.txt.txt",
+          "document": "<corpus>/news/global/safety4sea/alternative-methods-lifeboat-drills-mous.txt.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "in the water by its assigned crew at least"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_006.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_006.jsonl.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 4,
           "example_ngram": "be launched and manoeuvred in the water by its"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_SOLAS_2024_Consolidated.pdf.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_SOLAS_2024_Consolidated.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "be launched and manoeuvred in the water by its"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_9b75c-msn14.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_9b75c-msn14.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "be launched and manoeuvred in the water by its"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_MAIBInvReport_9-2015.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_MAIBInvReport_9-2015.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "be launched and manoeuvred in the water by its"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SOLAS.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SOLAS.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "be launched and manoeuvred in the water by its"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_mob-maersk-patras.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_mob-maersk-patras.pdf.txt",
           "shared_ngrams": 2,
           "hashed_shared_ngrams": 2,
           "example_ngram": "be launched and manoeuvred in the water by its"
@@ -2387,13 +2387,13 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/marker/global__scanned_ocr__IMO-MARPOL-Consolidated-Edition-2022.pdf.txt",
+          "document": "<corpus>/marker/global__scanned_ocr__IMO-MARPOL-Consolidated-Edition-2022.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "fitted with an oil discharge monitoring and control system"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_SOLAS_2024_Consolidated.pdf.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_SOLAS_2024_Consolidated.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "fitted with an oil discharge monitoring and control system"
@@ -2442,7 +2442,7 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_52386-msn44.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_52386-msn44.pdf.txt",
           "shared_ngrams": 3,
           "hashed_shared_ngrams": 3,
           "example_ngram": "for ships carrying noxious liquid substances in bulk cargo"
@@ -2953,7 +2953,7 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/safety4sea/ensuring-safety-of-navigation-10-key-responsibilities-for-watchkeepers.txt.txt",
+          "document": "<corpus>/news/global/safety4sea/ensuring-safety-of-navigation-10-key-responsibilities-for-watchkeepers.txt.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "of the officer in charge of a navigational watch"
@@ -3002,13 +3002,13 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_2022-SD1-SafetyDigest.pdf.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_2022-SD1-SafetyDigest.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "using an electronic chart display and information system ecdis"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_ICS Bridge Procedures - Bonnie G-Rel.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_ICS Bridge Procedures - Bonnie G-Rel.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "using an electronic chart display and information system ecdis"
@@ -3211,25 +3211,25 @@
       "hash_screening_match": true,
       "verified_top_docs": [
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/global/safety4sea/cm-do-you-know-what-gmdss-stands-for.txt.txt",
+          "document": "<corpus>/news/global/safety4sea/cm-do-you-know-what-gmdss-stands-for.txt.txt",
           "shared_ngrams": 4,
           "hashed_shared_ngrams": 4,
           "example_ngram": "sea area a4 an area outside sea areas a1"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
+          "document": "<corpus>/news/local/cpt_raw/digital_simple_shard_004.jsonl.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "an area outside sea areas a1 a2 and a3"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_complex_layout_SOLAS_2024_Consolidated.pdf.txt",
+          "document": "<corpus>/pymupdf/global_complex_layout_SOLAS_2024_Consolidated.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "an area outside sea areas a1 a2 and a3"
         },
         {
-          "document": "/home/mahdi/Documents/pipeline/cleaned_texts/pymupdf/global_digital_simple_SOLAS.pdf.txt",
+          "document": "<corpus>/pymupdf/global_digital_simple_SOLAS.pdf.txt",
           "shared_ngrams": 1,
           "hashed_shared_ngrams": 1,
           "example_ngram": "an area outside sea areas a1 a2 and a3"

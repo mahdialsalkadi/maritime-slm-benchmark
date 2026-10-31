@@ -333,7 +333,7 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="Evaluate a model on Maritime Benchmark v1.0")
     ap.add_argument("--model", required=True, help="Path or HF id of the model")
     ap.add_argument("--model-name", default=None, help="Short name used in output records")
-    ap.add_argument("--benchmark", default=str(Path(__file__).resolve().parents[1] / "benchmark" / "maritime_bench_v1.json"))
+    ap.add_argument("--benchmark", default=str(Path(__file__).resolve().parent / "benchmark" / "maritime_bench_v1.json"))
     ap.add_argument("--output", required=True, help="JSONL output path")
     ap.add_argument("--scoring", choices=["likelihood", "generation", "both"], default="both")
     ap.add_argument("--prompt-style", choices=["plain", "chat"], default="plain")

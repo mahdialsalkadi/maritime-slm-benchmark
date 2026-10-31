@@ -1,7 +1,7 @@
 {
-  "benchmark": "/home/mahdi/Documents/pipeline/review_v2/benchmark/maritime_bench_v1.json",
+  "benchmark": "<benchmark>/maritime_bench_v1.json",
   "benchmark_sha256": "ad69f7755d3d5ff50617f8d551be5412f44ff29d8fc97aff82667cc667e18254",
-  "corpus": "/home/mahdi/Documents/pipeline/cleaned_texts",
+  "corpus": "<corpus>",
   "ngram": 13,
   "text_mode": "qa",
   "n_features": 134217728,
